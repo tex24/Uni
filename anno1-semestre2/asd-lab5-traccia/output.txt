@@ -1,0 +1,7323 @@
+
+L'operazione ha richiesto 3767 microsecondi
+
+Digitare p per stampare il menu, q per terminare
+> 
+Bucket 0
+
+
+Bucket 1
+
+
+Bucket 2
+
+
+Bucket 3
+
+
+Bucket 4
+
+
+Bucket 5
+
+
+Bucket 6
+
+
+Bucket 7
+
+
+Bucket 8
+
+
+Bucket 9
+
+
+Bucket 10
+
+
+Bucket 11
+
+
+Bucket 12
+
+
+Bucket 13
+
+
+Bucket 14
+
+
+Bucket 15
+
+
+Bucket 16
+
+
+Bucket 17
+
+
+Bucket 18
+
+
+Bucket 19
+
+
+Bucket 20
+
+
+Bucket 21
+
+
+Bucket 22
+
+
+Bucket 23
+
+
+Bucket 24
+
+
+Bucket 25
+
+
+Bucket 26
+
+
+Bucket 27
+
+
+Bucket 28
+
+
+Bucket 29
+
+
+Bucket 30
+
+
+Bucket 31
+
+
+Bucket 32
+
+
+Bucket 33
+
+
+Bucket 34
+
+
+Bucket 35
+
+
+Bucket 36
+
+
+Bucket 37
+
+
+Bucket 38
+
+
+Bucket 39
+
+
+Bucket 40
+
+
+Bucket 41
+
+
+Bucket 42
+
+
+Bucket 43
+
+
+Bucket 44
+
+
+Bucket 45
+
+
+Bucket 46
+
+
+Bucket 47
+
+
+Bucket 48
+
+
+Bucket 49
+
+
+Bucket 50
+
+
+Bucket 51
+
+
+Bucket 52
+
+
+Bucket 53
+
+
+Bucket 54
+
+
+Bucket 55
+
+
+Bucket 56
+
+
+Bucket 57
+
+
+Bucket 58
+
+
+Bucket 59
+
+
+Bucket 60
+
+
+Bucket 61
+
+
+Bucket 62
+
+
+Bucket 63
+
+
+Bucket 64
+
+
+Bucket 65
+
+
+Bucket 66
+
+
+Bucket 67
+
+
+Bucket 68
+
+
+Bucket 69
+
+
+Bucket 70
+
+
+Bucket 71
+
+
+Bucket 72
+
+
+Bucket 73
+
+
+Bucket 74
+
+
+Bucket 75
+
+
+Bucket 76
+
+
+Bucket 77
+
+
+Bucket 78
+
+
+Bucket 79
+
+
+Bucket 80
+
+
+Bucket 81
+
+
+Bucket 82
+
+
+Bucket 83
+
+
+Bucket 84
+
+
+Bucket 85
+
+
+Bucket 86
+
+
+Bucket 87
+
+
+Bucket 88
+
+
+Bucket 89
+
+
+Bucket 90
+
+
+Bucket 91
+
+
+Bucket 92
+
+
+Bucket 93
+
+
+Bucket 94
+
+
+Bucket 95
+
+
+Bucket 96
+
+
+Bucket 97
+
+acheval:  () Astride; with a part on each side; -- used specif. in designating the position of an army with the wings separated by some line of demarcation, as a river or road.
+acetophenone:  (n.) A crystalline ketone, CH3COC6H5, which may be obtained by the dry distillation of a mixture of the calcium salts of acetic and benzoic acids. It is used as a hypnotic under the name of hypnone.
+acetonuria:  (n.) Excess of acetone in the urine, as in starvation or diabetes.
+acetonaemia:  (n.) Alt. of -nemia
+acetol:  (n.) Methyl ketol; also, any of various homologues of the same.
+acequia:  (n.) A canal or trench for irrigating land.
+ace:  (n.) A single point won by a stroke, as in handball, rackets, etc.; in tennis, frequently, a point won by a service stroke.
+acclamation:  (n.) In parliamentary usage, the act or method of voting orally and by groups rather than by ballot, esp. in elections;
+abreaction:  (n.) See Catharsis, below.
+abra:  (n.) A narrow pass or defile; a break in a mesa.
+abgeordnetenhaus:  (n.) See Legislature, Austria, Prussia.
+abasia:  (n.) Inability to coordinate muscular actions properly in walking.
+
+Bucket 98
+
+
+Bucket 99
+
+
+Bucket 100
+
+
+Bucket 101
+
+
+Bucket 102
+
+
+Bucket 103
+
+
+Bucket 104
+
+
+Bucket 105
+
+
+Bucket 106
+
+
+Bucket 107
+
+
+Bucket 108
+
+
+Bucket 109
+
+
+Bucket 110
+
+
+Bucket 111
+
+
+Bucket 112
+
+
+Bucket 113
+
+
+Bucket 114
+
+
+Bucket 115
+
+
+Bucket 116
+
+
+Bucket 117
+
+
+Bucket 118
+
+
+Bucket 119
+
+
+Bucket 120
+
+
+Bucket 121
+
+
+Bucket 122
+
+
+Bucket 123
+
+
+Bucket 124
+
+
+Bucket 125
+
+
+Bucket 126
+
+
+Bucket 127
+
+
+Bucket 128
+
+
+Bucket 129
+
+
+Bucket 130
+
+
+Bucket 131
+
+
+Bucket 132
+
+
+Bucket 133
+
+
+Bucket 134
+
+
+Bucket 135
+
+
+Bucket 136
+
+
+Bucket 137
+
+
+Bucket 138
+
+
+Bucket 139
+
+
+Bucket 140
+
+
+Bucket 141
+
+
+Bucket 142
+
+
+Bucket 143
+
+
+Bucket 144
+
+
+Bucket 145
+
+
+Bucket 146
+
+
+Bucket 147
+
+
+Bucket 148
+
+
+Bucket 149
+
+
+Bucket 150
+
+
+Bucket 151
+
+
+Bucket 152
+
+
+Bucket 153
+
+
+Bucket 154
+
+
+Bucket 155
+
+
+Bucket 156
+
+
+Bucket 157
+
+
+Bucket 158
+
+
+Bucket 159
+
+
+Bucket 160
+
+
+Bucket 161
+
+
+Bucket 162
+
+
+Bucket 163
+
+
+Bucket 164
+
+
+Bucket 165
+
+
+Bucket 166
+
+
+Bucket 167
+
+
+Bucket 168
+
+
+Bucket 169
+
+
+Bucket 170
+
+
+Bucket 171
+
+
+Bucket 172
+
+
+Bucket 173
+
+
+Bucket 174
+
+
+Bucket 175
+
+
+Bucket 176
+
+
+Bucket 177
+
+
+Bucket 178
+
+
+Bucket 179
+
+
+Bucket 180
+
+
+Bucket 181
+
+
+Bucket 182
+
+
+Bucket 183
+
+
+Bucket 184
+
+
+Bucket 185
+
+
+Bucket 186
+
+
+Bucket 187
+
+
+Bucket 188
+
+
+Bucket 189
+
+
+Bucket 190
+
+
+Bucket 191
+
+
+Bucket 192
+
+
+Bucket 193
+
+
+Bucket 194
+
+
+Bucket 195
+
+
+Bucket 196
+
+
+Bucket 197
+
+
+Bucket 198
+
+
+Bucket 199
+
+
+Bucket 200
+
+
+Bucket 201
+
+
+Bucket 202
+
+
+Bucket 203
+
+
+Bucket 204
+
+
+Bucket 205
+
+
+Bucket 206
+
+
+Bucket 207
+
+
+Bucket 208
+
+
+Bucket 209
+
+
+Bucket 210
+
+
+Bucket 211
+
+
+Bucket 212
+
+
+Bucket 213
+
+
+Bucket 214
+
+
+Bucket 215
+
+
+Bucket 216
+
+
+Bucket 217
+
+
+Bucket 218
+
+
+Bucket 219
+
+
+Bucket 220
+
+
+Bucket 221
+
+
+Bucket 222
+
+
+Bucket 223
+
+
+Bucket 224
+
+
+Bucket 225
+
+
+Bucket 226
+
+
+Bucket 227
+
+
+Bucket 228
+
+
+Bucket 229
+
+
+Bucket 230
+
+
+Bucket 231
+
+
+Bucket 232
+
+
+Bucket 233
+
+
+Bucket 234
+
+
+Bucket 235
+
+
+Bucket 236
+
+
+Bucket 237
+
+
+Bucket 238
+
+
+Bucket 239
+
+
+Bucket 240
+
+
+Bucket 241
+
+
+Bucket 242
+
+
+Bucket 243
+
+
+Bucket 244
+
+
+Bucket 245
+
+
+Bucket 246
+
+
+Bucket 247
+
+
+Bucket 248
+
+
+Bucket 249
+
+
+Bucket 250
+
+
+Bucket 251
+
+
+Bucket 252
+
+
+Bucket 253
+
+
+Bucket 254
+
+
+Bucket 255
+
+
+Bucket 256
+
+
+Bucket 257
+
+
+Bucket 258
+
+
+Bucket 259
+
+
+Bucket 260
+
+
+Bucket 261
+
+
+Bucket 262
+
+
+Bucket 263
+
+
+Bucket 264
+
+
+Bucket 265
+
+
+Bucket 266
+
+
+Bucket 267
+
+
+Bucket 268
+
+
+Bucket 269
+
+
+Bucket 270
+
+
+Bucket 271
+
+
+Bucket 272
+
+
+Bucket 273
+
+
+Bucket 274
+
+
+Bucket 275
+
+
+Bucket 276
+
+
+Bucket 277
+
+
+Bucket 278
+
+
+Bucket 279
+
+
+Bucket 280
+
+
+Bucket 281
+
+
+Bucket 282
+
+
+Bucket 283
+
+
+Bucket 284
+
+
+Bucket 285
+
+
+Bucket 286
+
+
+Bucket 287
+
+
+Bucket 288
+
+
+Bucket 289
+
+
+Bucket 290
+
+
+Bucket 291
+
+
+Bucket 292
+
+
+Bucket 293
+
+
+Bucket 294
+
+
+Bucket 295
+
+
+Bucket 296
+
+
+Bucket 297
+
+
+Bucket 298
+
+
+Bucket 299
+
+
+Bucket 300
+
+
+Bucket 301
+
+
+Bucket 302
+
+
+Bucket 303
+
+
+Bucket 304
+
+
+Bucket 305
+
+
+Bucket 306
+
+
+Bucket 307
+
+
+Bucket 308
+
+
+Bucket 309
+
+
+Bucket 310
+
+
+Bucket 311
+
+
+Bucket 312
+
+
+Bucket 313
+
+
+Bucket 314
+
+
+Bucket 315
+
+
+Bucket 316
+
+
+Bucket 317
+
+
+Bucket 318
+
+
+Bucket 319
+
+
+Bucket 320
+
+
+Bucket 321
+
+
+Bucket 322
+
+
+Bucket 323
+
+
+Bucket 324
+
+
+Bucket 325
+
+
+Bucket 326
+
+
+Bucket 327
+
+
+Bucket 328
+
+
+Bucket 329
+
+
+Bucket 330
+
+
+Bucket 331
+
+
+Bucket 332
+
+
+Bucket 333
+
+
+Bucket 334
+
+
+Bucket 335
+
+
+Bucket 336
+
+
+Bucket 337
+
+
+Bucket 338
+
+
+Bucket 339
+
+
+Bucket 340
+
+
+Bucket 341
+
+
+Bucket 342
+
+
+Bucket 343
+
+
+Bucket 344
+
+
+Bucket 345
+
+
+Bucket 346
+
+
+Bucket 347
+
+
+Bucket 348
+
+
+Bucket 349
+
+
+Bucket 350
+
+
+Bucket 351
+
+
+Bucket 352
+
+
+Bucket 353
+
+
+Bucket 354
+
+
+Bucket 355
+
+
+Bucket 356
+
+
+Bucket 357
+
+
+Bucket 358
+
+
+Bucket 359
+
+
+Bucket 360
+
+
+Bucket 361
+
+
+Bucket 362
+
+
+Bucket 363
+
+
+Bucket 364
+
+
+Bucket 365
+
+
+Bucket 366
+
+
+Bucket 367
+
+
+Bucket 368
+
+
+Bucket 369
+
+
+Bucket 370
+
+
+Bucket 371
+
+
+Bucket 372
+
+
+Bucket 373
+
+
+Bucket 374
+
+
+Bucket 375
+
+
+Bucket 376
+
+
+Bucket 377
+
+
+Bucket 378
+
+
+Bucket 379
+
+
+Bucket 380
+
+
+Bucket 381
+
+
+Bucket 382
+
+
+Bucket 383
+
+
+Bucket 384
+
+
+Bucket 385
+
+
+Bucket 386
+
+
+Bucket 387
+
+
+Bucket 388
+
+
+Bucket 389
+
+
+Bucket 390
+
+
+Bucket 391
+
+
+Bucket 392
+
+
+Bucket 393
+
+
+Bucket 394
+
+
+Bucket 395
+
+
+Bucket 396
+
+
+Bucket 397
+
+
+Bucket 398
+
+
+Bucket 399
+
+
+Bucket 400
+
+
+Bucket 401
+
+
+Bucket 402
+
+
+Bucket 403
+
+
+Bucket 404
+
+
+Bucket 405
+
+
+Bucket 406
+
+
+Bucket 407
+
+
+Bucket 408
+
+
+Bucket 409
+
+
+Bucket 410
+
+
+Bucket 411
+
+
+Bucket 412
+
+
+Bucket 413
+
+
+Bucket 414
+
+
+Bucket 415
+
+
+Bucket 416
+
+
+Bucket 417
+
+
+Bucket 418
+
+
+Bucket 419
+
+
+Bucket 420
+
+
+Bucket 421
+
+
+Bucket 422
+
+
+Bucket 423
+
+
+Bucket 424
+
+
+Bucket 425
+
+
+Bucket 426
+
+
+Bucket 427
+
+
+Bucket 428
+
+
+Bucket 429
+
+
+Bucket 430
+
+
+Bucket 431
+
+
+Bucket 432
+
+
+Bucket 433
+
+
+Bucket 434
+
+
+Bucket 435
+
+
+Bucket 436
+
+
+Bucket 437
+
+
+Bucket 438
+
+
+Bucket 439
+
+
+Bucket 440
+
+
+Bucket 441
+
+
+Bucket 442
+
+
+Bucket 443
+
+
+Bucket 444
+
+
+Bucket 445
+
+
+Bucket 446
+
+
+Bucket 447
+
+
+Bucket 448
+
+
+Bucket 449
+
+
+Bucket 450
+
+
+Bucket 451
+
+
+Bucket 452
+
+
+Bucket 453
+
+
+Bucket 454
+
+
+Bucket 455
+
+
+Bucket 456
+
+
+Bucket 457
+
+
+Bucket 458
+
+
+Bucket 459
+
+
+Bucket 460
+
+
+Bucket 461
+
+
+Bucket 462
+
+
+Bucket 463
+
+
+Bucket 464
+
+
+Bucket 465
+
+
+Bucket 466
+
+
+Bucket 467
+
+
+Bucket 468
+
+
+Bucket 469
+
+
+Bucket 470
+
+
+Bucket 471
+
+
+Bucket 472
+
+
+Bucket 473
+
+
+Bucket 474
+
+
+Bucket 475
+
+
+Bucket 476
+
+
+Bucket 477
+
+
+Bucket 478
+
+
+Bucket 479
+
+
+Bucket 480
+
+
+Bucket 481
+
+
+Bucket 482
+
+
+Bucket 483
+
+
+Bucket 484
+
+
+Bucket 485
+
+
+Bucket 486
+
+
+Bucket 487
+
+
+Bucket 488
+
+
+Bucket 489
+
+
+Bucket 490
+
+
+Bucket 491
+
+
+Bucket 492
+
+
+Bucket 493
+
+
+Bucket 494
+
+
+Bucket 495
+
+
+Bucket 496
+
+
+Bucket 497
+
+
+Bucket 498
+
+
+Bucket 499
+
+
+Bucket 500
+
+
+Bucket 501
+
+
+Bucket 502
+
+
+Bucket 503
+
+
+Bucket 504
+
+
+Bucket 505
+
+
+Bucket 506
+
+
+Bucket 507
+
+
+Bucket 508
+
+
+Bucket 509
+
+
+Bucket 510
+
+
+Bucket 511
+
+
+Bucket 512
+
+
+Bucket 513
+
+
+Bucket 514
+
+
+Bucket 515
+
+
+Bucket 516
+
+
+Bucket 517
+
+
+Bucket 518
+
+
+Bucket 519
+
+
+Bucket 520
+
+
+Bucket 521
+
+
+Bucket 522
+
+
+Bucket 523
+
+
+Bucket 524
+
+
+Bucket 525
+
+
+Bucket 526
+
+
+Bucket 527
+
+
+Bucket 528
+
+
+Bucket 529
+
+
+Bucket 530
+
+
+Bucket 531
+
+
+Bucket 532
+
+
+Bucket 533
+
+
+Bucket 534
+
+
+Bucket 535
+
+
+Bucket 536
+
+
+Bucket 537
+
+
+Bucket 538
+
+
+Bucket 539
+
+
+Bucket 540
+
+
+Bucket 541
+
+
+Bucket 542
+
+
+Bucket 543
+
+
+Bucket 544
+
+
+Bucket 545
+
+
+Bucket 546
+
+
+Bucket 547
+
+
+Bucket 548
+
+
+Bucket 549
+
+
+Bucket 550
+
+
+Bucket 551
+
+
+Bucket 552
+
+
+Bucket 553
+
+
+Bucket 554
+
+
+Bucket 555
+
+
+Bucket 556
+
+
+Bucket 557
+
+
+Bucket 558
+
+
+Bucket 559
+
+
+Bucket 560
+
+
+Bucket 561
+
+
+Bucket 562
+
+
+Bucket 563
+
+
+Bucket 564
+
+
+Bucket 565
+
+
+Bucket 566
+
+
+Bucket 567
+
+
+Bucket 568
+
+
+Bucket 569
+
+
+Bucket 570
+
+
+Bucket 571
+
+
+Bucket 572
+
+
+Bucket 573
+
+
+Bucket 574
+
+
+Bucket 575
+
+
+Bucket 576
+
+
+Bucket 577
+
+
+Bucket 578
+
+
+Bucket 579
+
+
+Bucket 580
+
+
+Bucket 581
+
+
+Bucket 582
+
+
+Bucket 583
+
+
+Bucket 584
+
+
+Bucket 585
+
+
+Bucket 586
+
+
+Bucket 587
+
+
+Bucket 588
+
+
+Bucket 589
+
+
+Bucket 590
+
+
+Bucket 591
+
+
+Bucket 592
+
+
+Bucket 593
+
+
+Bucket 594
+
+
+Bucket 595
+
+
+Bucket 596
+
+
+Bucket 597
+
+
+Bucket 598
+
+
+Bucket 599
+
+
+Bucket 600
+
+
+Bucket 601
+
+
+Bucket 602
+
+
+Bucket 603
+
+
+Bucket 604
+
+
+Bucket 605
+
+
+Bucket 606
+
+
+Bucket 607
+
+
+Bucket 608
+
+
+Bucket 609
+
+
+Bucket 610
+
+
+Bucket 611
+
+
+Bucket 612
+
+
+Bucket 613
+
+
+Bucket 614
+
+
+Bucket 615
+
+
+Bucket 616
+
+
+Bucket 617
+
+
+Bucket 618
+
+
+Bucket 619
+
+
+Bucket 620
+
+
+Bucket 621
+
+
+Bucket 622
+
+
+Bucket 623
+
+
+Bucket 624
+
+
+Bucket 625
+
+
+Bucket 626
+
+
+Bucket 627
+
+
+Bucket 628
+
+
+Bucket 629
+
+
+Bucket 630
+
+
+Bucket 631
+
+
+Bucket 632
+
+
+Bucket 633
+
+
+Bucket 634
+
+
+Bucket 635
+
+
+Bucket 636
+
+
+Bucket 637
+
+
+Bucket 638
+
+
+Bucket 639
+
+
+Bucket 640
+
+
+Bucket 641
+
+
+Bucket 642
+
+
+Bucket 643
+
+
+Bucket 644
+
+
+Bucket 645
+
+
+Bucket 646
+
+
+Bucket 647
+
+
+Bucket 648
+
+
+Bucket 649
+
+
+Bucket 650
+
+
+Bucket 651
+
+
+Bucket 652
+
+
+Bucket 653
+
+
+Bucket 654
+
+
+Bucket 655
+
+
+Bucket 656
+
+
+Bucket 657
+
+
+Bucket 658
+
+
+Bucket 659
+
+
+Bucket 660
+
+
+Bucket 661
+
+
+Bucket 662
+
+
+Bucket 663
+
+
+Bucket 664
+
+
+Bucket 665
+
+
+Bucket 666
+
+
+Bucket 667
+
+
+Bucket 668
+
+
+Bucket 669
+
+
+Bucket 670
+
+
+Bucket 671
+
+
+Bucket 672
+
+
+Bucket 673
+
+
+Bucket 674
+
+
+Bucket 675
+
+
+Bucket 676
+
+
+Bucket 677
+
+
+Bucket 678
+
+
+Bucket 679
+
+
+Bucket 680
+
+
+Bucket 681
+
+
+Bucket 682
+
+
+Bucket 683
+
+
+Bucket 684
+
+
+Bucket 685
+
+
+Bucket 686
+
+
+Bucket 687
+
+
+Bucket 688
+
+
+Bucket 689
+
+
+Bucket 690
+
+
+Bucket 691
+
+
+Bucket 692
+
+
+Bucket 693
+
+
+Bucket 694
+
+
+Bucket 695
+
+
+Bucket 696
+
+
+Bucket 697
+
+
+Bucket 698
+
+
+Bucket 699
+
+
+Bucket 700
+
+
+Bucket 701
+
+
+Bucket 702
+
+
+Bucket 703
+
+
+Bucket 704
+
+
+Bucket 705
+
+
+Bucket 706
+
+
+Bucket 707
+
+
+Bucket 708
+
+
+Bucket 709
+
+
+Bucket 710
+
+
+Bucket 711
+
+
+Bucket 712
+
+
+Bucket 713
+
+
+Bucket 714
+
+
+Bucket 715
+
+
+Bucket 716
+
+
+Bucket 717
+
+
+Bucket 718
+
+
+Bucket 719
+
+
+Bucket 720
+
+
+Bucket 721
+
+
+Bucket 722
+
+
+Bucket 723
+
+
+Bucket 724
+
+
+Bucket 725
+
+
+Bucket 726
+
+
+Bucket 727
+
+
+Bucket 728
+
+
+Bucket 729
+
+
+Bucket 730
+
+
+Bucket 731
+
+
+Bucket 732
+
+
+Bucket 733
+
+
+Bucket 734
+
+
+Bucket 735
+
+
+Bucket 736
+
+
+Bucket 737
+
+
+Bucket 738
+
+
+Bucket 739
+
+
+Bucket 740
+
+
+Bucket 741
+
+
+Bucket 742
+
+
+Bucket 743
+
+
+Bucket 744
+
+
+Bucket 745
+
+
+Bucket 746
+
+
+Bucket 747
+
+
+Bucket 748
+
+
+Bucket 749
+
+
+Bucket 750
+
+
+Bucket 751
+
+
+Bucket 752
+
+
+Bucket 753
+
+
+Bucket 754
+
+
+Bucket 755
+
+
+Bucket 756
+
+
+Bucket 757
+
+
+Bucket 758
+
+
+Bucket 759
+
+
+Bucket 760
+
+
+Bucket 761
+
+
+Bucket 762
+
+
+Bucket 763
+
+
+Bucket 764
+
+
+Bucket 765
+
+
+Bucket 766
+
+
+Bucket 767
+
+
+Bucket 768
+
+
+Bucket 769
+
+
+Bucket 770
+
+
+Bucket 771
+
+
+Bucket 772
+
+
+Bucket 773
+
+
+Bucket 774
+
+
+Bucket 775
+
+
+Bucket 776
+
+
+Bucket 777
+
+
+Bucket 778
+
+
+Bucket 779
+
+
+Bucket 780
+
+
+Bucket 781
+
+
+Bucket 782
+
+
+Bucket 783
+
+
+Bucket 784
+
+
+Bucket 785
+
+
+Bucket 786
+
+
+Bucket 787
+
+
+Bucket 788
+
+
+Bucket 789
+
+
+Bucket 790
+
+
+Bucket 791
+
+
+Bucket 792
+
+
+Bucket 793
+
+
+Bucket 794
+
+
+Bucket 795
+
+
+Bucket 796
+
+
+Bucket 797
+
+
+Bucket 798
+
+
+Bucket 799
+
+
+Bucket 800
+
+
+Bucket 801
+
+
+Bucket 802
+
+
+Bucket 803
+
+
+Bucket 804
+
+
+Bucket 805
+
+
+Bucket 806
+
+
+Bucket 807
+
+
+Bucket 808
+
+
+Bucket 809
+
+
+Bucket 810
+
+
+Bucket 811
+
+
+Bucket 812
+
+
+Bucket 813
+
+
+Bucket 814
+
+
+Bucket 815
+
+
+Bucket 816
+
+
+Bucket 817
+
+
+Bucket 818
+
+
+Bucket 819
+
+
+Bucket 820
+
+
+Bucket 821
+
+
+Bucket 822
+
+
+Bucket 823
+
+
+Bucket 824
+
+
+Bucket 825
+
+
+Bucket 826
+
+
+Bucket 827
+
+
+Bucket 828
+
+
+Bucket 829
+
+
+Bucket 830
+
+
+Bucket 831
+
+
+Bucket 832
+
+
+Bucket 833
+
+
+Bucket 834
+
+
+Bucket 835
+
+
+Bucket 836
+
+
+Bucket 837
+
+
+Bucket 838
+
+
+Bucket 839
+
+
+Bucket 840
+
+
+Bucket 841
+
+
+Bucket 842
+
+
+Bucket 843
+
+
+Bucket 844
+
+
+Bucket 845
+
+
+Bucket 846
+
+
+Bucket 847
+
+
+Bucket 848
+
+
+Bucket 849
+
+
+Bucket 850
+
+
+Bucket 851
+
+
+Bucket 852
+
+
+Bucket 853
+
+
+Bucket 854
+
+
+Bucket 855
+
+
+Bucket 856
+
+
+Bucket 857
+
+
+Bucket 858
+
+
+Bucket 859
+
+
+Bucket 860
+
+
+Bucket 861
+
+
+Bucket 862
+
+
+Bucket 863
+
+
+Bucket 864
+
+
+Bucket 865
+
+
+Bucket 866
+
+
+Bucket 867
+
+
+Bucket 868
+
+
+Bucket 869
+
+
+Bucket 870
+
+
+Bucket 871
+
+
+Bucket 872
+
+
+Bucket 873
+
+
+Bucket 874
+
+
+Bucket 875
+
+
+Bucket 876
+
+
+Bucket 877
+
+
+Bucket 878
+
+
+Bucket 879
+
+
+Bucket 880
+
+
+Bucket 881
+
+
+Bucket 882
+
+
+Bucket 883
+
+
+Bucket 884
+
+
+Bucket 885
+
+
+Bucket 886
+
+
+Bucket 887
+
+
+Bucket 888
+
+
+Bucket 889
+
+
+Bucket 890
+
+
+Bucket 891
+
+
+Bucket 892
+
+
+Bucket 893
+
+
+Bucket 894
+
+
+Bucket 895
+
+
+Bucket 896
+
+
+Bucket 897
+
+
+Bucket 898
+
+
+Bucket 899
+
+
+Bucket 900
+
+
+Bucket 901
+
+
+Bucket 902
+
+
+Bucket 903
+
+
+Bucket 904
+
+
+Bucket 905
+
+
+Bucket 906
+
+
+Bucket 907
+
+
+Bucket 908
+
+
+Bucket 909
+
+
+Bucket 910
+
+
+Bucket 911
+
+
+Bucket 912
+
+
+Bucket 913
+
+
+Bucket 914
+
+
+Bucket 915
+
+
+Bucket 916
+
+
+Bucket 917
+
+
+Bucket 918
+
+
+Bucket 919
+
+
+Bucket 920
+
+
+Bucket 921
+
+
+Bucket 922
+
+
+Bucket 923
+
+
+Bucket 924
+
+
+Bucket 925
+
+
+Bucket 926
+
+
+Bucket 927
+
+
+Bucket 928
+
+
+Bucket 929
+
+
+Bucket 930
+
+
+Bucket 931
+
+
+Bucket 932
+
+
+Bucket 933
+
+
+Bucket 934
+
+
+Bucket 935
+
+
+Bucket 936
+
+
+Bucket 937
+
+
+Bucket 938
+
+
+Bucket 939
+
+
+Bucket 940
+
+
+Bucket 941
+
+
+Bucket 942
+
+
+Bucket 943
+
+
+Bucket 944
+
+
+Bucket 945
+
+
+Bucket 946
+
+
+Bucket 947
+
+
+Bucket 948
+
+
+Bucket 949
+
+
+Bucket 950
+
+
+Bucket 951
+
+
+Bucket 952
+
+
+Bucket 953
+
+
+Bucket 954
+
+
+Bucket 955
+
+
+Bucket 956
+
+
+Bucket 957
+
+
+Bucket 958
+
+
+Bucket 959
+
+
+Bucket 960
+
+
+Bucket 961
+
+
+Bucket 962
+
+
+Bucket 963
+
+
+Bucket 964
+
+
+Bucket 965
+
+
+Bucket 966
+
+
+Bucket 967
+
+
+Bucket 968
+
+
+Bucket 969
+
+
+Bucket 970
+
+
+Bucket 971
+
+
+Bucket 972
+
+
+Bucket 973
+
+
+Bucket 974
+
+
+Bucket 975
+
+
+Bucket 976
+
+
+Bucket 977
+
+
+Bucket 978
+
+
+Bucket 979
+
+
+Bucket 980
+
+
+Bucket 981
+
+
+Bucket 982
+
+
+Bucket 983
+
+
+Bucket 984
+
+
+Bucket 985
+
+
+Bucket 986
+
+
+Bucket 987
+
+
+Bucket 988
+
+
+Bucket 989
+
+
+Bucket 990
+
+
+Bucket 991
+
+
+Bucket 992
+
+
+Bucket 993
+
+
+Bucket 994
+
+
+Bucket 995
+
+
+Bucket 996
+
+
+Bucket 997
+
+
+Bucket 998
+
+
+Bucket 999
+
+
+===STATISTICHE SULL'ORGANIZZAZIONE DEL DIZIONARIO===
+
+Bucket 0: 0 elementi
+Bucket 1: 0 elementi
+Bucket 2: 0 elementi
+Bucket 3: 0 elementi
+Bucket 4: 0 elementi
+Bucket 5: 0 elementi
+Bucket 6: 0 elementi
+Bucket 7: 0 elementi
+Bucket 8: 0 elementi
+Bucket 9: 0 elementi
+Bucket 10: 0 elementi
+Bucket 11: 0 elementi
+Bucket 12: 0 elementi
+Bucket 13: 0 elementi
+Bucket 14: 0 elementi
+Bucket 15: 0 elementi
+Bucket 16: 0 elementi
+Bucket 17: 0 elementi
+Bucket 18: 0 elementi
+Bucket 19: 0 elementi
+Bucket 20: 0 elementi
+Bucket 21: 0 elementi
+Bucket 22: 0 elementi
+Bucket 23: 0 elementi
+Bucket 24: 0 elementi
+Bucket 25: 0 elementi
+Bucket 26: 0 elementi
+Bucket 27: 0 elementi
+Bucket 28: 0 elementi
+Bucket 29: 0 elementi
+Bucket 30: 0 elementi
+Bucket 31: 0 elementi
+Bucket 32: 0 elementi
+Bucket 33: 0 elementi
+Bucket 34: 0 elementi
+Bucket 35: 0 elementi
+Bucket 36: 0 elementi
+Bucket 37: 0 elementi
+Bucket 38: 0 elementi
+Bucket 39: 0 elementi
+Bucket 40: 0 elementi
+Bucket 41: 0 elementi
+Bucket 42: 0 elementi
+Bucket 43: 0 elementi
+Bucket 44: 0 elementi
+Bucket 45: 0 elementi
+Bucket 46: 0 elementi
+Bucket 47: 0 elementi
+Bucket 48: 0 elementi
+Bucket 49: 0 elementi
+Bucket 50: 0 elementi
+Bucket 51: 0 elementi
+Bucket 52: 0 elementi
+Bucket 53: 0 elementi
+Bucket 54: 0 elementi
+Bucket 55: 0 elementi
+Bucket 56: 0 elementi
+Bucket 57: 0 elementi
+Bucket 58: 0 elementi
+Bucket 59: 0 elementi
+Bucket 60: 0 elementi
+Bucket 61: 0 elementi
+Bucket 62: 0 elementi
+Bucket 63: 0 elementi
+Bucket 64: 0 elementi
+Bucket 65: 0 elementi
+Bucket 66: 0 elementi
+Bucket 67: 0 elementi
+Bucket 68: 0 elementi
+Bucket 69: 0 elementi
+Bucket 70: 0 elementi
+Bucket 71: 0 elementi
+Bucket 72: 0 elementi
+Bucket 73: 0 elementi
+Bucket 74: 0 elementi
+Bucket 75: 0 elementi
+Bucket 76: 0 elementi
+Bucket 77: 0 elementi
+Bucket 78: 0 elementi
+Bucket 79: 0 elementi
+Bucket 80: 0 elementi
+Bucket 81: 0 elementi
+Bucket 82: 0 elementi
+Bucket 83: 0 elementi
+Bucket 84: 0 elementi
+Bucket 85: 0 elementi
+Bucket 86: 0 elementi
+Bucket 87: 0 elementi
+Bucket 88: 0 elementi
+Bucket 89: 0 elementi
+Bucket 90: 0 elementi
+Bucket 91: 0 elementi
+Bucket 92: 0 elementi
+Bucket 93: 0 elementi
+Bucket 94: 0 elementi
+Bucket 95: 0 elementi
+Bucket 96: 0 elementi
+Bucket 97: 12 elementi
+Bucket 98: 0 elementi
+Bucket 99: 0 elementi
+Bucket 100: 0 elementi
+Bucket 101: 0 elementi
+Bucket 102: 0 elementi
+Bucket 103: 0 elementi
+Bucket 104: 0 elementi
+Bucket 105: 0 elementi
+Bucket 106: 0 elementi
+Bucket 107: 0 elementi
+Bucket 108: 0 elementi
+Bucket 109: 0 elementi
+Bucket 110: 0 elementi
+Bucket 111: 0 elementi
+Bucket 112: 0 elementi
+Bucket 113: 0 elementi
+Bucket 114: 0 elementi
+Bucket 115: 0 elementi
+Bucket 116: 0 elementi
+Bucket 117: 0 elementi
+Bucket 118: 0 elementi
+Bucket 119: 0 elementi
+Bucket 120: 0 elementi
+Bucket 121: 0 elementi
+Bucket 122: 0 elementi
+Bucket 123: 0 elementi
+Bucket 124: 0 elementi
+Bucket 125: 0 elementi
+Bucket 126: 0 elementi
+Bucket 127: 0 elementi
+Bucket 128: 0 elementi
+Bucket 129: 0 elementi
+Bucket 130: 0 elementi
+Bucket 131: 0 elementi
+Bucket 132: 0 elementi
+Bucket 133: 0 elementi
+Bucket 134: 0 elementi
+Bucket 135: 0 elementi
+Bucket 136: 0 elementi
+Bucket 137: 0 elementi
+Bucket 138: 0 elementi
+Bucket 139: 0 elementi
+Bucket 140: 0 elementi
+Bucket 141: 0 elementi
+Bucket 142: 0 elementi
+Bucket 143: 0 elementi
+Bucket 144: 0 elementi
+Bucket 145: 0 elementi
+Bucket 146: 0 elementi
+Bucket 147: 0 elementi
+Bucket 148: 0 elementi
+Bucket 149: 0 elementi
+Bucket 150: 0 elementi
+Bucket 151: 0 elementi
+Bucket 152: 0 elementi
+Bucket 153: 0 elementi
+Bucket 154: 0 elementi
+Bucket 155: 0 elementi
+Bucket 156: 0 elementi
+Bucket 157: 0 elementi
+Bucket 158: 0 elementi
+Bucket 159: 0 elementi
+Bucket 160: 0 elementi
+Bucket 161: 0 elementi
+Bucket 162: 0 elementi
+Bucket 163: 0 elementi
+Bucket 164: 0 elementi
+Bucket 165: 0 elementi
+Bucket 166: 0 elementi
+Bucket 167: 0 elementi
+Bucket 168: 0 elementi
+Bucket 169: 0 elementi
+Bucket 170: 0 elementi
+Bucket 171: 0 elementi
+Bucket 172: 0 elementi
+Bucket 173: 0 elementi
+Bucket 174: 0 elementi
+Bucket 175: 0 elementi
+Bucket 176: 0 elementi
+Bucket 177: 0 elementi
+Bucket 178: 0 elementi
+Bucket 179: 0 elementi
+Bucket 180: 0 elementi
+Bucket 181: 0 elementi
+Bucket 182: 0 elementi
+Bucket 183: 0 elementi
+Bucket 184: 0 elementi
+Bucket 185: 0 elementi
+Bucket 186: 0 elementi
+Bucket 187: 0 elementi
+Bucket 188: 0 elementi
+Bucket 189: 0 elementi
+Bucket 190: 0 elementi
+Bucket 191: 0 elementi
+Bucket 192: 0 elementi
+Bucket 193: 0 elementi
+Bucket 194: 0 elementi
+Bucket 195: 0 elementi
+Bucket 196: 0 elementi
+Bucket 197: 0 elementi
+Bucket 198: 0 elementi
+Bucket 199: 0 elementi
+Bucket 200: 0 elementi
+Bucket 201: 0 elementi
+Bucket 202: 0 elementi
+Bucket 203: 0 elementi
+Bucket 204: 0 elementi
+Bucket 205: 0 elementi
+Bucket 206: 0 elementi
+Bucket 207: 0 elementi
+Bucket 208: 0 elementi
+Bucket 209: 0 elementi
+Bucket 210: 0 elementi
+Bucket 211: 0 elementi
+Bucket 212: 0 elementi
+Bucket 213: 0 elementi
+Bucket 214: 0 elementi
+Bucket 215: 0 elementi
+Bucket 216: 0 elementi
+Bucket 217: 0 elementi
+Bucket 218: 0 elementi
+Bucket 219: 0 elementi
+Bucket 220: 0 elementi
+Bucket 221: 0 elementi
+Bucket 222: 0 elementi
+Bucket 223: 0 elementi
+Bucket 224: 0 elementi
+Bucket 225: 0 elementi
+Bucket 226: 0 elementi
+Bucket 227: 0 elementi
+Bucket 228: 0 elementi
+Bucket 229: 0 elementi
+Bucket 230: 0 elementi
+Bucket 231: 0 elementi
+Bucket 232: 0 elementi
+Bucket 233: 0 elementi
+Bucket 234: 0 elementi
+Bucket 235: 0 elementi
+Bucket 236: 0 elementi
+Bucket 237: 0 elementi
+Bucket 238: 0 elementi
+Bucket 239: 0 elementi
+Bucket 240: 0 elementi
+Bucket 241: 0 elementi
+Bucket 242: 0 elementi
+Bucket 243: 0 elementi
+Bucket 244: 0 elementi
+Bucket 245: 0 elementi
+Bucket 246: 0 elementi
+Bucket 247: 0 elementi
+Bucket 248: 0 elementi
+Bucket 249: 0 elementi
+Bucket 250: 0 elementi
+Bucket 251: 0 elementi
+Bucket 252: 0 elementi
+Bucket 253: 0 elementi
+Bucket 254: 0 elementi
+Bucket 255: 0 elementi
+Bucket 256: 0 elementi
+Bucket 257: 0 elementi
+Bucket 258: 0 elementi
+Bucket 259: 0 elementi
+Bucket 260: 0 elementi
+Bucket 261: 0 elementi
+Bucket 262: 0 elementi
+Bucket 263: 0 elementi
+Bucket 264: 0 elementi
+Bucket 265: 0 elementi
+Bucket 266: 0 elementi
+Bucket 267: 0 elementi
+Bucket 268: 0 elementi
+Bucket 269: 0 elementi
+Bucket 270: 0 elementi
+Bucket 271: 0 elementi
+Bucket 272: 0 elementi
+Bucket 273: 0 elementi
+Bucket 274: 0 elementi
+Bucket 275: 0 elementi
+Bucket 276: 0 elementi
+Bucket 277: 0 elementi
+Bucket 278: 0 elementi
+Bucket 279: 0 elementi
+Bucket 280: 0 elementi
+Bucket 281: 0 elementi
+Bucket 282: 0 elementi
+Bucket 283: 0 elementi
+Bucket 284: 0 elementi
+Bucket 285: 0 elementi
+Bucket 286: 0 elementi
+Bucket 287: 0 elementi
+Bucket 288: 0 elementi
+Bucket 289: 0 elementi
+Bucket 290: 0 elementi
+Bucket 291: 0 elementi
+Bucket 292: 0 elementi
+Bucket 293: 0 elementi
+Bucket 294: 0 elementi
+Bucket 295: 0 elementi
+Bucket 296: 0 elementi
+Bucket 297: 0 elementi
+Bucket 298: 0 elementi
+Bucket 299: 0 elementi
+Bucket 300: 0 elementi
+Bucket 301: 0 elementi
+Bucket 302: 0 elementi
+Bucket 303: 0 elementi
+Bucket 304: 0 elementi
+Bucket 305: 0 elementi
+Bucket 306: 0 elementi
+Bucket 307: 0 elementi
+Bucket 308: 0 elementi
+Bucket 309: 0 elementi
+Bucket 310: 0 elementi
+Bucket 311: 0 elementi
+Bucket 312: 0 elementi
+Bucket 313: 0 elementi
+Bucket 314: 0 elementi
+Bucket 315: 0 elementi
+Bucket 316: 0 elementi
+Bucket 317: 0 elementi
+Bucket 318: 0 elementi
+Bucket 319: 0 elementi
+Bucket 320: 0 elementi
+Bucket 321: 0 elementi
+Bucket 322: 0 elementi
+Bucket 323: 0 elementi
+Bucket 324: 0 elementi
+Bucket 325: 0 elementi
+Bucket 326: 0 elementi
+Bucket 327: 0 elementi
+Bucket 328: 0 elementi
+Bucket 329: 0 elementi
+Bucket 330: 0 elementi
+Bucket 331: 0 elementi
+Bucket 332: 0 elementi
+Bucket 333: 0 elementi
+Bucket 334: 0 elementi
+Bucket 335: 0 elementi
+Bucket 336: 0 elementi
+Bucket 337: 0 elementi
+Bucket 338: 0 elementi
+Bucket 339: 0 elementi
+Bucket 340: 0 elementi
+Bucket 341: 0 elementi
+Bucket 342: 0 elementi
+Bucket 343: 0 elementi
+Bucket 344: 0 elementi
+Bucket 345: 0 elementi
+Bucket 346: 0 elementi
+Bucket 347: 0 elementi
+Bucket 348: 0 elementi
+Bucket 349: 0 elementi
+Bucket 350: 0 elementi
+Bucket 351: 0 elementi
+Bucket 352: 0 elementi
+Bucket 353: 0 elementi
+Bucket 354: 0 elementi
+Bucket 355: 0 elementi
+Bucket 356: 0 elementi
+Bucket 357: 0 elementi
+Bucket 358: 0 elementi
+Bucket 359: 0 elementi
+Bucket 360: 0 elementi
+Bucket 361: 0 elementi
+Bucket 362: 0 elementi
+Bucket 363: 0 elementi
+Bucket 364: 0 elementi
+Bucket 365: 0 elementi
+Bucket 366: 0 elementi
+Bucket 367: 0 elementi
+Bucket 368: 0 elementi
+Bucket 369: 0 elementi
+Bucket 370: 0 elementi
+Bucket 371: 0 elementi
+Bucket 372: 0 elementi
+Bucket 373: 0 elementi
+Bucket 374: 0 elementi
+Bucket 375: 0 elementi
+Bucket 376: 0 elementi
+Bucket 377: 0 elementi
+Bucket 378: 0 elementi
+Bucket 379: 0 elementi
+Bucket 380: 0 elementi
+Bucket 381: 0 elementi
+Bucket 382: 0 elementi
+Bucket 383: 0 elementi
+Bucket 384: 0 elementi
+Bucket 385: 0 elementi
+Bucket 386: 0 elementi
+Bucket 387: 0 elementi
+Bucket 388: 0 elementi
+Bucket 389: 0 elementi
+Bucket 390: 0 elementi
+Bucket 391: 0 elementi
+Bucket 392: 0 elementi
+Bucket 393: 0 elementi
+Bucket 394: 0 elementi
+Bucket 395: 0 elementi
+Bucket 396: 0 elementi
+Bucket 397: 0 elementi
+Bucket 398: 0 elementi
+Bucket 399: 0 elementi
+Bucket 400: 0 elementi
+Bucket 401: 0 elementi
+Bucket 402: 0 elementi
+Bucket 403: 0 elementi
+Bucket 404: 0 elementi
+Bucket 405: 0 elementi
+Bucket 406: 0 elementi
+Bucket 407: 0 elementi
+Bucket 408: 0 elementi
+Bucket 409: 0 elementi
+Bucket 410: 0 elementi
+Bucket 411: 0 elementi
+Bucket 412: 0 elementi
+Bucket 413: 0 elementi
+Bucket 414: 0 elementi
+Bucket 415: 0 elementi
+Bucket 416: 0 elementi
+Bucket 417: 0 elementi
+Bucket 418: 0 elementi
+Bucket 419: 0 elementi
+Bucket 420: 0 elementi
+Bucket 421: 0 elementi
+Bucket 422: 0 elementi
+Bucket 423: 0 elementi
+Bucket 424: 0 elementi
+Bucket 425: 0 elementi
+Bucket 426: 0 elementi
+Bucket 427: 0 elementi
+Bucket 428: 0 elementi
+Bucket 429: 0 elementi
+Bucket 430: 0 elementi
+Bucket 431: 0 elementi
+Bucket 432: 0 elementi
+Bucket 433: 0 elementi
+Bucket 434: 0 elementi
+Bucket 435: 0 elementi
+Bucket 436: 0 elementi
+Bucket 437: 0 elementi
+Bucket 438: 0 elementi
+Bucket 439: 0 elementi
+Bucket 440: 0 elementi
+Bucket 441: 0 elementi
+Bucket 442: 0 elementi
+Bucket 443: 0 elementi
+Bucket 444: 0 elementi
+Bucket 445: 0 elementi
+Bucket 446: 0 elementi
+Bucket 447: 0 elementi
+Bucket 448: 0 elementi
+Bucket 449: 0 elementi
+Bucket 450: 0 elementi
+Bucket 451: 0 elementi
+Bucket 452: 0 elementi
+Bucket 453: 0 elementi
+Bucket 454: 0 elementi
+Bucket 455: 0 elementi
+Bucket 456: 0 elementi
+Bucket 457: 0 elementi
+Bucket 458: 0 elementi
+Bucket 459: 0 elementi
+Bucket 460: 0 elementi
+Bucket 461: 0 elementi
+Bucket 462: 0 elementi
+Bucket 463: 0 elementi
+Bucket 464: 0 elementi
+Bucket 465: 0 elementi
+Bucket 466: 0 elementi
+Bucket 467: 0 elementi
+Bucket 468: 0 elementi
+Bucket 469: 0 elementi
+Bucket 470: 0 elementi
+Bucket 471: 0 elementi
+Bucket 472: 0 elementi
+Bucket 473: 0 elementi
+Bucket 474: 0 elementi
+Bucket 475: 0 elementi
+Bucket 476: 0 elementi
+Bucket 477: 0 elementi
+Bucket 478: 0 elementi
+Bucket 479: 0 elementi
+Bucket 480: 0 elementi
+Bucket 481: 0 elementi
+Bucket 482: 0 elementi
+Bucket 483: 0 elementi
+Bucket 484: 0 elementi
+Bucket 485: 0 elementi
+Bucket 486: 0 elementi
+Bucket 487: 0 elementi
+Bucket 488: 0 elementi
+Bucket 489: 0 elementi
+Bucket 490: 0 elementi
+Bucket 491: 0 elementi
+Bucket 492: 0 elementi
+Bucket 493: 0 elementi
+Bucket 494: 0 elementi
+Bucket 495: 0 elementi
+Bucket 496: 0 elementi
+Bucket 497: 0 elementi
+Bucket 498: 0 elementi
+Bucket 499: 0 elementi
+Bucket 500: 0 elementi
+Bucket 501: 0 elementi
+Bucket 502: 0 elementi
+Bucket 503: 0 elementi
+Bucket 504: 0 elementi
+Bucket 505: 0 elementi
+Bucket 506: 0 elementi
+Bucket 507: 0 elementi
+Bucket 508: 0 elementi
+Bucket 509: 0 elementi
+Bucket 510: 0 elementi
+Bucket 511: 0 elementi
+Bucket 512: 0 elementi
+Bucket 513: 0 elementi
+Bucket 514: 0 elementi
+Bucket 515: 0 elementi
+Bucket 516: 0 elementi
+Bucket 517: 0 elementi
+Bucket 518: 0 elementi
+Bucket 519: 0 elementi
+Bucket 520: 0 elementi
+Bucket 521: 0 elementi
+Bucket 522: 0 elementi
+Bucket 523: 0 elementi
+Bucket 524: 0 elementi
+Bucket 525: 0 elementi
+Bucket 526: 0 elementi
+Bucket 527: 0 elementi
+Bucket 528: 0 elementi
+Bucket 529: 0 elementi
+Bucket 530: 0 elementi
+Bucket 531: 0 elementi
+Bucket 532: 0 elementi
+Bucket 533: 0 elementi
+Bucket 534: 0 elementi
+Bucket 535: 0 elementi
+Bucket 536: 0 elementi
+Bucket 537: 0 elementi
+Bucket 538: 0 elementi
+Bucket 539: 0 elementi
+Bucket 540: 0 elementi
+Bucket 541: 0 elementi
+Bucket 542: 0 elementi
+Bucket 543: 0 elementi
+Bucket 544: 0 elementi
+Bucket 545: 0 elementi
+Bucket 546: 0 elementi
+Bucket 547: 0 elementi
+Bucket 548: 0 elementi
+Bucket 549: 0 elementi
+Bucket 550: 0 elementi
+Bucket 551: 0 elementi
+Bucket 552: 0 elementi
+Bucket 553: 0 elementi
+Bucket 554: 0 elementi
+Bucket 555: 0 elementi
+Bucket 556: 0 elementi
+Bucket 557: 0 elementi
+Bucket 558: 0 elementi
+Bucket 559: 0 elementi
+Bucket 560: 0 elementi
+Bucket 561: 0 elementi
+Bucket 562: 0 elementi
+Bucket 563: 0 elementi
+Bucket 564: 0 elementi
+Bucket 565: 0 elementi
+Bucket 566: 0 elementi
+Bucket 567: 0 elementi
+Bucket 568: 0 elementi
+Bucket 569: 0 elementi
+Bucket 570: 0 elementi
+Bucket 571: 0 elementi
+Bucket 572: 0 elementi
+Bucket 573: 0 elementi
+Bucket 574: 0 elementi
+Bucket 575: 0 elementi
+Bucket 576: 0 elementi
+Bucket 577: 0 elementi
+Bucket 578: 0 elementi
+Bucket 579: 0 elementi
+Bucket 580: 0 elementi
+Bucket 581: 0 elementi
+Bucket 582: 0 elementi
+Bucket 583: 0 elementi
+Bucket 584: 0 elementi
+Bucket 585: 0 elementi
+Bucket 586: 0 elementi
+Bucket 587: 0 elementi
+Bucket 588: 0 elementi
+Bucket 589: 0 elementi
+Bucket 590: 0 elementi
+Bucket 591: 0 elementi
+Bucket 592: 0 elementi
+Bucket 593: 0 elementi
+Bucket 594: 0 elementi
+Bucket 595: 0 elementi
+Bucket 596: 0 elementi
+Bucket 597: 0 elementi
+Bucket 598: 0 elementi
+Bucket 599: 0 elementi
+Bucket 600: 0 elementi
+Bucket 601: 0 elementi
+Bucket 602: 0 elementi
+Bucket 603: 0 elementi
+Bucket 604: 0 elementi
+Bucket 605: 0 elementi
+Bucket 606: 0 elementi
+Bucket 607: 0 elementi
+Bucket 608: 0 elementi
+Bucket 609: 0 elementi
+Bucket 610: 0 elementi
+Bucket 611: 0 elementi
+Bucket 612: 0 elementi
+Bucket 613: 0 elementi
+Bucket 614: 0 elementi
+Bucket 615: 0 elementi
+Bucket 616: 0 elementi
+Bucket 617: 0 elementi
+Bucket 618: 0 elementi
+Bucket 619: 0 elementi
+Bucket 620: 0 elementi
+Bucket 621: 0 elementi
+Bucket 622: 0 elementi
+Bucket 623: 0 elementi
+Bucket 624: 0 elementi
+Bucket 625: 0 elementi
+Bucket 626: 0 elementi
+Bucket 627: 0 elementi
+Bucket 628: 0 elementi
+Bucket 629: 0 elementi
+Bucket 630: 0 elementi
+Bucket 631: 0 elementi
+Bucket 632: 0 elementi
+Bucket 633: 0 elementi
+Bucket 634: 0 elementi
+Bucket 635: 0 elementi
+Bucket 636: 0 elementi
+Bucket 637: 0 elementi
+Bucket 638: 0 elementi
+Bucket 639: 0 elementi
+Bucket 640: 0 elementi
+Bucket 641: 0 elementi
+Bucket 642: 0 elementi
+Bucket 643: 0 elementi
+Bucket 644: 0 elementi
+Bucket 645: 0 elementi
+Bucket 646: 0 elementi
+Bucket 647: 0 elementi
+Bucket 648: 0 elementi
+Bucket 649: 0 elementi
+Bucket 650: 0 elementi
+Bucket 651: 0 elementi
+Bucket 652: 0 elementi
+Bucket 653: 0 elementi
+Bucket 654: 0 elementi
+Bucket 655: 0 elementi
+Bucket 656: 0 elementi
+Bucket 657: 0 elementi
+Bucket 658: 0 elementi
+Bucket 659: 0 elementi
+Bucket 660: 0 elementi
+Bucket 661: 0 elementi
+Bucket 662: 0 elementi
+Bucket 663: 0 elementi
+Bucket 664: 0 elementi
+Bucket 665: 0 elementi
+Bucket 666: 0 elementi
+Bucket 667: 0 elementi
+Bucket 668: 0 elementi
+Bucket 669: 0 elementi
+Bucket 670: 0 elementi
+Bucket 671: 0 elementi
+Bucket 672: 0 elementi
+Bucket 673: 0 elementi
+Bucket 674: 0 elementi
+Bucket 675: 0 elementi
+Bucket 676: 0 elementi
+Bucket 677: 0 elementi
+Bucket 678: 0 elementi
+Bucket 679: 0 elementi
+Bucket 680: 0 elementi
+Bucket 681: 0 elementi
+Bucket 682: 0 elementi
+Bucket 683: 0 elementi
+Bucket 684: 0 elementi
+Bucket 685: 0 elementi
+Bucket 686: 0 elementi
+Bucket 687: 0 elementi
+Bucket 688: 0 elementi
+Bucket 689: 0 elementi
+Bucket 690: 0 elementi
+Bucket 691: 0 elementi
+Bucket 692: 0 elementi
+Bucket 693: 0 elementi
+Bucket 694: 0 elementi
+Bucket 695: 0 elementi
+Bucket 696: 0 elementi
+Bucket 697: 0 elementi
+Bucket 698: 0 elementi
+Bucket 699: 0 elementi
+Bucket 700: 0 elementi
+Bucket 701: 0 elementi
+Bucket 702: 0 elementi
+Bucket 703: 0 elementi
+Bucket 704: 0 elementi
+Bucket 705: 0 elementi
+Bucket 706: 0 elementi
+Bucket 707: 0 elementi
+Bucket 708: 0 elementi
+Bucket 709: 0 elementi
+Bucket 710: 0 elementi
+Bucket 711: 0 elementi
+Bucket 712: 0 elementi
+Bucket 713: 0 elementi
+Bucket 714: 0 elementi
+Bucket 715: 0 elementi
+Bucket 716: 0 elementi
+Bucket 717: 0 elementi
+Bucket 718: 0 elementi
+Bucket 719: 0 elementi
+Bucket 720: 0 elementi
+Bucket 721: 0 elementi
+Bucket 722: 0 elementi
+Bucket 723: 0 elementi
+Bucket 724: 0 elementi
+Bucket 725: 0 elementi
+Bucket 726: 0 elementi
+Bucket 727: 0 elementi
+Bucket 728: 0 elementi
+Bucket 729: 0 elementi
+Bucket 730: 0 elementi
+Bucket 731: 0 elementi
+Bucket 732: 0 elementi
+Bucket 733: 0 elementi
+Bucket 734: 0 elementi
+Bucket 735: 0 elementi
+Bucket 736: 0 elementi
+Bucket 737: 0 elementi
+Bucket 738: 0 elementi
+Bucket 739: 0 elementi
+Bucket 740: 0 elementi
+Bucket 741: 0 elementi
+Bucket 742: 0 elementi
+Bucket 743: 0 elementi
+Bucket 744: 0 elementi
+Bucket 745: 0 elementi
+Bucket 746: 0 elementi
+Bucket 747: 0 elementi
+Bucket 748: 0 elementi
+Bucket 749: 0 elementi
+Bucket 750: 0 elementi
+Bucket 751: 0 elementi
+Bucket 752: 0 elementi
+Bucket 753: 0 elementi
+Bucket 754: 0 elementi
+Bucket 755: 0 elementi
+Bucket 756: 0 elementi
+Bucket 757: 0 elementi
+Bucket 758: 0 elementi
+Bucket 759: 0 elementi
+Bucket 760: 0 elementi
+Bucket 761: 0 elementi
+Bucket 762: 0 elementi
+Bucket 763: 0 elementi
+Bucket 764: 0 elementi
+Bucket 765: 0 elementi
+Bucket 766: 0 elementi
+Bucket 767: 0 elementi
+Bucket 768: 0 elementi
+Bucket 769: 0 elementi
+Bucket 770: 0 elementi
+Bucket 771: 0 elementi
+Bucket 772: 0 elementi
+Bucket 773: 0 elementi
+Bucket 774: 0 elementi
+Bucket 775: 0 elementi
+Bucket 776: 0 elementi
+Bucket 777: 0 elementi
+Bucket 778: 0 elementi
+Bucket 779: 0 elementi
+Bucket 780: 0 elementi
+Bucket 781: 0 elementi
+Bucket 782: 0 elementi
+Bucket 783: 0 elementi
+Bucket 784: 0 elementi
+Bucket 785: 0 elementi
+Bucket 786: 0 elementi
+Bucket 787: 0 elementi
+Bucket 788: 0 elementi
+Bucket 789: 0 elementi
+Bucket 790: 0 elementi
+Bucket 791: 0 elementi
+Bucket 792: 0 elementi
+Bucket 793: 0 elementi
+Bucket 794: 0 elementi
+Bucket 795: 0 elementi
+Bucket 796: 0 elementi
+Bucket 797: 0 elementi
+Bucket 798: 0 elementi
+Bucket 799: 0 elementi
+Bucket 800: 0 elementi
+Bucket 801: 0 elementi
+Bucket 802: 0 elementi
+Bucket 803: 0 elementi
+Bucket 804: 0 elementi
+Bucket 805: 0 elementi
+Bucket 806: 0 elementi
+Bucket 807: 0 elementi
+Bucket 808: 0 elementi
+Bucket 809: 0 elementi
+Bucket 810: 0 elementi
+Bucket 811: 0 elementi
+Bucket 812: 0 elementi
+Bucket 813: 0 elementi
+Bucket 814: 0 elementi
+Bucket 815: 0 elementi
+Bucket 816: 0 elementi
+Bucket 817: 0 elementi
+Bucket 818: 0 elementi
+Bucket 819: 0 elementi
+Bucket 820: 0 elementi
+Bucket 821: 0 elementi
+Bucket 822: 0 elementi
+Bucket 823: 0 elementi
+Bucket 824: 0 elementi
+Bucket 825: 0 elementi
+Bucket 826: 0 elementi
+Bucket 827: 0 elementi
+Bucket 828: 0 elementi
+Bucket 829: 0 elementi
+Bucket 830: 0 elementi
+Bucket 831: 0 elementi
+Bucket 832: 0 elementi
+Bucket 833: 0 elementi
+Bucket 834: 0 elementi
+Bucket 835: 0 elementi
+Bucket 836: 0 elementi
+Bucket 837: 0 elementi
+Bucket 838: 0 elementi
+Bucket 839: 0 elementi
+Bucket 840: 0 elementi
+Bucket 841: 0 elementi
+Bucket 842: 0 elementi
+Bucket 843: 0 elementi
+Bucket 844: 0 elementi
+Bucket 845: 0 elementi
+Bucket 846: 0 elementi
+Bucket 847: 0 elementi
+Bucket 848: 0 elementi
+Bucket 849: 0 elementi
+Bucket 850: 0 elementi
+Bucket 851: 0 elementi
+Bucket 852: 0 elementi
+Bucket 853: 0 elementi
+Bucket 854: 0 elementi
+Bucket 855: 0 elementi
+Bucket 856: 0 elementi
+Bucket 857: 0 elementi
+Bucket 858: 0 elementi
+Bucket 859: 0 elementi
+Bucket 860: 0 elementi
+Bucket 861: 0 elementi
+Bucket 862: 0 elementi
+Bucket 863: 0 elementi
+Bucket 864: 0 elementi
+Bucket 865: 0 elementi
+Bucket 866: 0 elementi
+Bucket 867: 0 elementi
+Bucket 868: 0 elementi
+Bucket 869: 0 elementi
+Bucket 870: 0 elementi
+Bucket 871: 0 elementi
+Bucket 872: 0 elementi
+Bucket 873: 0 elementi
+Bucket 874: 0 elementi
+Bucket 875: 0 elementi
+Bucket 876: 0 elementi
+Bucket 877: 0 elementi
+Bucket 878: 0 elementi
+Bucket 879: 0 elementi
+Bucket 880: 0 elementi
+Bucket 881: 0 elementi
+Bucket 882: 0 elementi
+Bucket 883: 0 elementi
+Bucket 884: 0 elementi
+Bucket 885: 0 elementi
+Bucket 886: 0 elementi
+Bucket 887: 0 elementi
+Bucket 888: 0 elementi
+Bucket 889: 0 elementi
+Bucket 890: 0 elementi
+Bucket 891: 0 elementi
+Bucket 892: 0 elementi
+Bucket 893: 0 elementi
+Bucket 894: 0 elementi
+Bucket 895: 0 elementi
+Bucket 896: 0 elementi
+Bucket 897: 0 elementi
+Bucket 898: 0 elementi
+Bucket 899: 0 elementi
+Bucket 900: 0 elementi
+Bucket 901: 0 elementi
+Bucket 902: 0 elementi
+Bucket 903: 0 elementi
+Bucket 904: 0 elementi
+Bucket 905: 0 elementi
+Bucket 906: 0 elementi
+Bucket 907: 0 elementi
+Bucket 908: 0 elementi
+Bucket 909: 0 elementi
+Bucket 910: 0 elementi
+Bucket 911: 0 elementi
+Bucket 912: 0 elementi
+Bucket 913: 0 elementi
+Bucket 914: 0 elementi
+Bucket 915: 0 elementi
+Bucket 916: 0 elementi
+Bucket 917: 0 elementi
+Bucket 918: 0 elementi
+Bucket 919: 0 elementi
+Bucket 920: 0 elementi
+Bucket 921: 0 elementi
+Bucket 922: 0 elementi
+Bucket 923: 0 elementi
+Bucket 924: 0 elementi
+Bucket 925: 0 elementi
+Bucket 926: 0 elementi
+Bucket 927: 0 elementi
+Bucket 928: 0 elementi
+Bucket 929: 0 elementi
+Bucket 930: 0 elementi
+Bucket 931: 0 elementi
+Bucket 932: 0 elementi
+Bucket 933: 0 elementi
+Bucket 934: 0 elementi
+Bucket 935: 0 elementi
+Bucket 936: 0 elementi
+Bucket 937: 0 elementi
+Bucket 938: 0 elementi
+Bucket 939: 0 elementi
+Bucket 940: 0 elementi
+Bucket 941: 0 elementi
+Bucket 942: 0 elementi
+Bucket 943: 0 elementi
+Bucket 944: 0 elementi
+Bucket 945: 0 elementi
+Bucket 946: 0 elementi
+Bucket 947: 0 elementi
+Bucket 948: 0 elementi
+Bucket 949: 0 elementi
+Bucket 950: 0 elementi
+Bucket 951: 0 elementi
+Bucket 952: 0 elementi
+Bucket 953: 0 elementi
+Bucket 954: 0 elementi
+Bucket 955: 0 elementi
+Bucket 956: 0 elementi
+Bucket 957: 0 elementi
+Bucket 958: 0 elementi
+Bucket 959: 0 elementi
+Bucket 960: 0 elementi
+Bucket 961: 0 elementi
+Bucket 962: 0 elementi
+Bucket 963: 0 elementi
+Bucket 964: 0 elementi
+Bucket 965: 0 elementi
+Bucket 966: 0 elementi
+Bucket 967: 0 elementi
+Bucket 968: 0 elementi
+Bucket 969: 0 elementi
+Bucket 970: 0 elementi
+Bucket 971: 0 elementi
+Bucket 972: 0 elementi
+Bucket 973: 0 elementi
+Bucket 974: 0 elementi
+Bucket 975: 0 elementi
+Bucket 976: 0 elementi
+Bucket 977: 0 elementi
+Bucket 978: 0 elementi
+Bucket 979: 0 elementi
+Bucket 980: 0 elementi
+Bucket 981: 0 elementi
+Bucket 982: 0 elementi
+Bucket 983: 0 elementi
+Bucket 984: 0 elementi
+Bucket 985: 0 elementi
+Bucket 986: 0 elementi
+Bucket 987: 0 elementi
+Bucket 988: 0 elementi
+Bucket 989: 0 elementi
+Bucket 990: 0 elementi
+Bucket 991: 0 elementi
+Bucket 992: 0 elementi
+Bucket 993: 0 elementi
+Bucket 994: 0 elementi
+Bucket 995: 0 elementi
+Bucket 996: 0 elementi
+Bucket 997: 0 elementi
+Bucket 998: 0 elementi
+Bucket 999: 0 elementi
+Il numero totale di elementi memorizzati e' 12
+Il numero di bucket nel dizionario e' 1000
+Il numero atteso di elementi per bucket e' 0.012
+La deviazione standard e' 0.379276
+Digitare p per stampare il menu, q per terminare
+> 
+Bucket 0
+
+
+Bucket 1
+
+
+Bucket 2
+
+
+Bucket 3
+
+
+Bucket 4
+
+
+Bucket 5
+
+
+Bucket 6
+
+
+Bucket 7
+
+
+Bucket 8
+
+
+Bucket 9
+
+
+Bucket 10
+
+
+Bucket 11
+
+
+Bucket 12
+
+
+Bucket 13
+
+
+Bucket 14
+
+
+Bucket 15
+
+
+Bucket 16
+
+
+Bucket 17
+
+
+Bucket 18
+
+
+Bucket 19
+
+
+Bucket 20
+
+
+Bucket 21
+
+
+Bucket 22
+
+
+Bucket 23
+
+
+Bucket 24
+
+
+Bucket 25
+
+
+Bucket 26
+
+
+Bucket 27
+
+
+Bucket 28
+
+
+Bucket 29
+
+
+Bucket 30
+
+
+Bucket 31
+
+
+Bucket 32
+
+
+Bucket 33
+
+
+Bucket 34
+
+
+Bucket 35
+
+
+Bucket 36
+
+
+Bucket 37
+
+
+Bucket 38
+
+
+Bucket 39
+
+
+Bucket 40
+
+
+Bucket 41
+
+
+Bucket 42
+
+
+Bucket 43
+
+
+Bucket 44
+
+
+Bucket 45
+
+
+Bucket 46
+
+
+Bucket 47
+
+
+Bucket 48
+
+
+Bucket 49
+
+
+Bucket 50
+
+
+Bucket 51
+
+
+Bucket 52
+
+
+Bucket 53
+
+
+Bucket 54
+
+
+Bucket 55
+
+
+Bucket 56
+
+
+Bucket 57
+
+
+Bucket 58
+
+
+Bucket 59
+
+
+Bucket 60
+
+
+Bucket 61
+
+
+Bucket 62
+
+
+Bucket 63
+
+
+Bucket 64
+
+
+Bucket 65
+
+
+Bucket 66
+
+
+Bucket 67
+
+
+Bucket 68
+
+
+Bucket 69
+
+
+Bucket 70
+
+
+Bucket 71
+
+
+Bucket 72
+
+
+Bucket 73
+
+
+Bucket 74
+
+
+Bucket 75
+
+
+Bucket 76
+
+
+Bucket 77
+
+
+Bucket 78
+
+
+Bucket 79
+
+
+Bucket 80
+
+
+Bucket 81
+
+
+Bucket 82
+
+
+Bucket 83
+
+
+Bucket 84
+
+
+Bucket 85
+
+
+Bucket 86
+
+
+Bucket 87
+
+
+Bucket 88
+
+
+Bucket 89
+
+
+Bucket 90
+
+
+Bucket 91
+
+
+Bucket 92
+
+
+Bucket 93
+
+
+Bucket 94
+
+
+Bucket 95
+
+
+Bucket 96
+
+
+Bucket 97
+
+acheval:  () Astride; with a part on each side; -- used specif. in designating the position of an army with the wings separated by some line of demarcation, as a river or road.
+acetophenone:  (n.) A crystalline ketone, CH3COC6H5, which may be obtained by the dry distillation of a mixture of the calcium salts of acetic and benzoic acids. It is used as a hypnotic under the name of hypnone.
+acetonuria:  (n.) Excess of acetone in the urine, as in starvation or diabetes.
+acetonaemia:  (n.) Alt. of -nemia
+acetol:  (n.) Methyl ketol; also, any of various homologues of the same.
+acequia:  (n.) A canal or trench for irrigating land.
+ace:  (n.) A single point won by a stroke, as in handball, rackets, etc.; in tennis, frequently, a point won by a service stroke.
+acclamation:  (n.) In parliamentary usage, the act or method of voting orally and by groups rather than by ballot, esp. in elections;
+abreaction:  (n.) See Catharsis, below.
+abra:  (n.) A narrow pass or defile; a break in a mesa.
+abgeordnetenhaus:  (n.) See Legislature, Austria, Prussia.
+abasia:  (n.) Inability to coordinate muscular actions properly in walking.
+
+Bucket 98
+
+
+Bucket 99
+
+
+Bucket 100
+
+
+Bucket 101
+
+
+Bucket 102
+
+
+Bucket 103
+
+
+Bucket 104
+
+
+Bucket 105
+
+
+Bucket 106
+
+
+Bucket 107
+
+
+Bucket 108
+
+
+Bucket 109
+
+
+Bucket 110
+
+
+Bucket 111
+
+
+Bucket 112
+
+
+Bucket 113
+
+
+Bucket 114
+
+
+Bucket 115
+
+
+Bucket 116
+
+
+Bucket 117
+
+
+Bucket 118
+
+
+Bucket 119
+
+
+Bucket 120
+
+
+Bucket 121
+
+
+Bucket 122
+
+
+Bucket 123
+
+
+Bucket 124
+
+
+Bucket 125
+
+
+Bucket 126
+
+
+Bucket 127
+
+
+Bucket 128
+
+
+Bucket 129
+
+
+Bucket 130
+
+
+Bucket 131
+
+
+Bucket 132
+
+
+Bucket 133
+
+
+Bucket 134
+
+
+Bucket 135
+
+
+Bucket 136
+
+
+Bucket 137
+
+
+Bucket 138
+
+
+Bucket 139
+
+
+Bucket 140
+
+
+Bucket 141
+
+
+Bucket 142
+
+
+Bucket 143
+
+
+Bucket 144
+
+
+Bucket 145
+
+
+Bucket 146
+
+
+Bucket 147
+
+
+Bucket 148
+
+
+Bucket 149
+
+
+Bucket 150
+
+
+Bucket 151
+
+
+Bucket 152
+
+
+Bucket 153
+
+
+Bucket 154
+
+
+Bucket 155
+
+
+Bucket 156
+
+
+Bucket 157
+
+
+Bucket 158
+
+
+Bucket 159
+
+
+Bucket 160
+
+
+Bucket 161
+
+
+Bucket 162
+
+
+Bucket 163
+
+
+Bucket 164
+
+
+Bucket 165
+
+
+Bucket 166
+
+
+Bucket 167
+
+
+Bucket 168
+
+
+Bucket 169
+
+
+Bucket 170
+
+
+Bucket 171
+
+
+Bucket 172
+
+
+Bucket 173
+
+
+Bucket 174
+
+
+Bucket 175
+
+
+Bucket 176
+
+
+Bucket 177
+
+
+Bucket 178
+
+
+Bucket 179
+
+
+Bucket 180
+
+
+Bucket 181
+
+
+Bucket 182
+
+
+Bucket 183
+
+
+Bucket 184
+
+
+Bucket 185
+
+
+Bucket 186
+
+
+Bucket 187
+
+
+Bucket 188
+
+
+Bucket 189
+
+
+Bucket 190
+
+
+Bucket 191
+
+
+Bucket 192
+
+
+Bucket 193
+
+
+Bucket 194
+
+
+Bucket 195
+
+
+Bucket 196
+
+
+Bucket 197
+
+
+Bucket 198
+
+
+Bucket 199
+
+
+Bucket 200
+
+
+Bucket 201
+
+
+Bucket 202
+
+
+Bucket 203
+
+
+Bucket 204
+
+
+Bucket 205
+
+
+Bucket 206
+
+
+Bucket 207
+
+
+Bucket 208
+
+
+Bucket 209
+
+
+Bucket 210
+
+
+Bucket 211
+
+
+Bucket 212
+
+
+Bucket 213
+
+
+Bucket 214
+
+
+Bucket 215
+
+
+Bucket 216
+
+
+Bucket 217
+
+
+Bucket 218
+
+
+Bucket 219
+
+
+Bucket 220
+
+
+Bucket 221
+
+
+Bucket 222
+
+
+Bucket 223
+
+
+Bucket 224
+
+
+Bucket 225
+
+
+Bucket 226
+
+
+Bucket 227
+
+
+Bucket 228
+
+
+Bucket 229
+
+
+Bucket 230
+
+
+Bucket 231
+
+
+Bucket 232
+
+
+Bucket 233
+
+
+Bucket 234
+
+
+Bucket 235
+
+
+Bucket 236
+
+
+Bucket 237
+
+
+Bucket 238
+
+
+Bucket 239
+
+
+Bucket 240
+
+
+Bucket 241
+
+
+Bucket 242
+
+
+Bucket 243
+
+
+Bucket 244
+
+
+Bucket 245
+
+
+Bucket 246
+
+
+Bucket 247
+
+
+Bucket 248
+
+
+Bucket 249
+
+
+Bucket 250
+
+
+Bucket 251
+
+
+Bucket 252
+
+
+Bucket 253
+
+
+Bucket 254
+
+
+Bucket 255
+
+
+Bucket 256
+
+
+Bucket 257
+
+
+Bucket 258
+
+
+Bucket 259
+
+
+Bucket 260
+
+
+Bucket 261
+
+
+Bucket 262
+
+
+Bucket 263
+
+
+Bucket 264
+
+
+Bucket 265
+
+
+Bucket 266
+
+
+Bucket 267
+
+
+Bucket 268
+
+
+Bucket 269
+
+
+Bucket 270
+
+
+Bucket 271
+
+
+Bucket 272
+
+
+Bucket 273
+
+
+Bucket 274
+
+
+Bucket 275
+
+
+Bucket 276
+
+
+Bucket 277
+
+
+Bucket 278
+
+
+Bucket 279
+
+
+Bucket 280
+
+
+Bucket 281
+
+
+Bucket 282
+
+
+Bucket 283
+
+
+Bucket 284
+
+
+Bucket 285
+
+
+Bucket 286
+
+
+Bucket 287
+
+
+Bucket 288
+
+
+Bucket 289
+
+
+Bucket 290
+
+
+Bucket 291
+
+
+Bucket 292
+
+
+Bucket 293
+
+
+Bucket 294
+
+
+Bucket 295
+
+
+Bucket 296
+
+
+Bucket 297
+
+
+Bucket 298
+
+
+Bucket 299
+
+
+Bucket 300
+
+
+Bucket 301
+
+
+Bucket 302
+
+
+Bucket 303
+
+
+Bucket 304
+
+
+Bucket 305
+
+
+Bucket 306
+
+
+Bucket 307
+
+
+Bucket 308
+
+
+Bucket 309
+
+
+Bucket 310
+
+
+Bucket 311
+
+
+Bucket 312
+
+
+Bucket 313
+
+
+Bucket 314
+
+
+Bucket 315
+
+
+Bucket 316
+
+
+Bucket 317
+
+
+Bucket 318
+
+
+Bucket 319
+
+
+Bucket 320
+
+
+Bucket 321
+
+
+Bucket 322
+
+
+Bucket 323
+
+
+Bucket 324
+
+
+Bucket 325
+
+
+Bucket 326
+
+
+Bucket 327
+
+
+Bucket 328
+
+
+Bucket 329
+
+
+Bucket 330
+
+
+Bucket 331
+
+
+Bucket 332
+
+
+Bucket 333
+
+
+Bucket 334
+
+
+Bucket 335
+
+
+Bucket 336
+
+
+Bucket 337
+
+
+Bucket 338
+
+
+Bucket 339
+
+
+Bucket 340
+
+
+Bucket 341
+
+
+Bucket 342
+
+
+Bucket 343
+
+
+Bucket 344
+
+
+Bucket 345
+
+
+Bucket 346
+
+
+Bucket 347
+
+
+Bucket 348
+
+
+Bucket 349
+
+
+Bucket 350
+
+
+Bucket 351
+
+
+Bucket 352
+
+
+Bucket 353
+
+
+Bucket 354
+
+
+Bucket 355
+
+
+Bucket 356
+
+
+Bucket 357
+
+
+Bucket 358
+
+
+Bucket 359
+
+
+Bucket 360
+
+
+Bucket 361
+
+
+Bucket 362
+
+
+Bucket 363
+
+
+Bucket 364
+
+
+Bucket 365
+
+
+Bucket 366
+
+
+Bucket 367
+
+
+Bucket 368
+
+
+Bucket 369
+
+
+Bucket 370
+
+
+Bucket 371
+
+
+Bucket 372
+
+
+Bucket 373
+
+
+Bucket 374
+
+
+Bucket 375
+
+
+Bucket 376
+
+
+Bucket 377
+
+
+Bucket 378
+
+
+Bucket 379
+
+
+Bucket 380
+
+
+Bucket 381
+
+
+Bucket 382
+
+
+Bucket 383
+
+
+Bucket 384
+
+
+Bucket 385
+
+
+Bucket 386
+
+
+Bucket 387
+
+
+Bucket 388
+
+
+Bucket 389
+
+
+Bucket 390
+
+
+Bucket 391
+
+
+Bucket 392
+
+
+Bucket 393
+
+
+Bucket 394
+
+
+Bucket 395
+
+
+Bucket 396
+
+
+Bucket 397
+
+
+Bucket 398
+
+
+Bucket 399
+
+
+Bucket 400
+
+
+Bucket 401
+
+
+Bucket 402
+
+
+Bucket 403
+
+
+Bucket 404
+
+
+Bucket 405
+
+
+Bucket 406
+
+
+Bucket 407
+
+
+Bucket 408
+
+
+Bucket 409
+
+
+Bucket 410
+
+
+Bucket 411
+
+
+Bucket 412
+
+
+Bucket 413
+
+
+Bucket 414
+
+
+Bucket 415
+
+
+Bucket 416
+
+
+Bucket 417
+
+
+Bucket 418
+
+
+Bucket 419
+
+
+Bucket 420
+
+
+Bucket 421
+
+
+Bucket 422
+
+
+Bucket 423
+
+
+Bucket 424
+
+
+Bucket 425
+
+
+Bucket 426
+
+
+Bucket 427
+
+
+Bucket 428
+
+
+Bucket 429
+
+
+Bucket 430
+
+
+Bucket 431
+
+
+Bucket 432
+
+
+Bucket 433
+
+
+Bucket 434
+
+
+Bucket 435
+
+
+Bucket 436
+
+
+Bucket 437
+
+
+Bucket 438
+
+
+Bucket 439
+
+
+Bucket 440
+
+
+Bucket 441
+
+
+Bucket 442
+
+
+Bucket 443
+
+
+Bucket 444
+
+
+Bucket 445
+
+
+Bucket 446
+
+
+Bucket 447
+
+
+Bucket 448
+
+
+Bucket 449
+
+
+Bucket 450
+
+
+Bucket 451
+
+
+Bucket 452
+
+
+Bucket 453
+
+
+Bucket 454
+
+
+Bucket 455
+
+
+Bucket 456
+
+
+Bucket 457
+
+
+Bucket 458
+
+
+Bucket 459
+
+
+Bucket 460
+
+
+Bucket 461
+
+
+Bucket 462
+
+
+Bucket 463
+
+
+Bucket 464
+
+
+Bucket 465
+
+
+Bucket 466
+
+
+Bucket 467
+
+
+Bucket 468
+
+
+Bucket 469
+
+
+Bucket 470
+
+
+Bucket 471
+
+
+Bucket 472
+
+
+Bucket 473
+
+
+Bucket 474
+
+
+Bucket 475
+
+
+Bucket 476
+
+
+Bucket 477
+
+
+Bucket 478
+
+
+Bucket 479
+
+
+Bucket 480
+
+
+Bucket 481
+
+
+Bucket 482
+
+
+Bucket 483
+
+
+Bucket 484
+
+
+Bucket 485
+
+
+Bucket 486
+
+
+Bucket 487
+
+
+Bucket 488
+
+
+Bucket 489
+
+
+Bucket 490
+
+
+Bucket 491
+
+
+Bucket 492
+
+
+Bucket 493
+
+
+Bucket 494
+
+
+Bucket 495
+
+
+Bucket 496
+
+
+Bucket 497
+
+
+Bucket 498
+
+
+Bucket 499
+
+
+Bucket 500
+
+
+Bucket 501
+
+
+Bucket 502
+
+
+Bucket 503
+
+
+Bucket 504
+
+
+Bucket 505
+
+
+Bucket 506
+
+
+Bucket 507
+
+
+Bucket 508
+
+
+Bucket 509
+
+
+Bucket 510
+
+
+Bucket 511
+
+
+Bucket 512
+
+
+Bucket 513
+
+
+Bucket 514
+
+
+Bucket 515
+
+
+Bucket 516
+
+
+Bucket 517
+
+
+Bucket 518
+
+
+Bucket 519
+
+
+Bucket 520
+
+
+Bucket 521
+
+
+Bucket 522
+
+
+Bucket 523
+
+
+Bucket 524
+
+
+Bucket 525
+
+
+Bucket 526
+
+
+Bucket 527
+
+
+Bucket 528
+
+
+Bucket 529
+
+
+Bucket 530
+
+
+Bucket 531
+
+
+Bucket 532
+
+
+Bucket 533
+
+
+Bucket 534
+
+
+Bucket 535
+
+
+Bucket 536
+
+
+Bucket 537
+
+
+Bucket 538
+
+
+Bucket 539
+
+
+Bucket 540
+
+
+Bucket 541
+
+
+Bucket 542
+
+
+Bucket 543
+
+
+Bucket 544
+
+
+Bucket 545
+
+
+Bucket 546
+
+
+Bucket 547
+
+
+Bucket 548
+
+
+Bucket 549
+
+
+Bucket 550
+
+
+Bucket 551
+
+
+Bucket 552
+
+
+Bucket 553
+
+
+Bucket 554
+
+
+Bucket 555
+
+
+Bucket 556
+
+
+Bucket 557
+
+
+Bucket 558
+
+
+Bucket 559
+
+
+Bucket 560
+
+
+Bucket 561
+
+
+Bucket 562
+
+
+Bucket 563
+
+
+Bucket 564
+
+
+Bucket 565
+
+
+Bucket 566
+
+
+Bucket 567
+
+
+Bucket 568
+
+
+Bucket 569
+
+
+Bucket 570
+
+
+Bucket 571
+
+
+Bucket 572
+
+
+Bucket 573
+
+
+Bucket 574
+
+
+Bucket 575
+
+
+Bucket 576
+
+
+Bucket 577
+
+
+Bucket 578
+
+
+Bucket 579
+
+
+Bucket 580
+
+
+Bucket 581
+
+
+Bucket 582
+
+
+Bucket 583
+
+
+Bucket 584
+
+
+Bucket 585
+
+
+Bucket 586
+
+
+Bucket 587
+
+
+Bucket 588
+
+
+Bucket 589
+
+
+Bucket 590
+
+
+Bucket 591
+
+
+Bucket 592
+
+
+Bucket 593
+
+
+Bucket 594
+
+
+Bucket 595
+
+
+Bucket 596
+
+
+Bucket 597
+
+
+Bucket 598
+
+
+Bucket 599
+
+
+Bucket 600
+
+
+Bucket 601
+
+
+Bucket 602
+
+
+Bucket 603
+
+
+Bucket 604
+
+
+Bucket 605
+
+
+Bucket 606
+
+
+Bucket 607
+
+
+Bucket 608
+
+
+Bucket 609
+
+
+Bucket 610
+
+
+Bucket 611
+
+
+Bucket 612
+
+
+Bucket 613
+
+
+Bucket 614
+
+
+Bucket 615
+
+
+Bucket 616
+
+
+Bucket 617
+
+
+Bucket 618
+
+
+Bucket 619
+
+
+Bucket 620
+
+
+Bucket 621
+
+
+Bucket 622
+
+
+Bucket 623
+
+
+Bucket 624
+
+
+Bucket 625
+
+
+Bucket 626
+
+
+Bucket 627
+
+
+Bucket 628
+
+
+Bucket 629
+
+
+Bucket 630
+
+
+Bucket 631
+
+
+Bucket 632
+
+
+Bucket 633
+
+
+Bucket 634
+
+
+Bucket 635
+
+
+Bucket 636
+
+
+Bucket 637
+
+
+Bucket 638
+
+
+Bucket 639
+
+
+Bucket 640
+
+
+Bucket 641
+
+
+Bucket 642
+
+
+Bucket 643
+
+
+Bucket 644
+
+
+Bucket 645
+
+
+Bucket 646
+
+
+Bucket 647
+
+
+Bucket 648
+
+
+Bucket 649
+
+
+Bucket 650
+
+
+Bucket 651
+
+
+Bucket 652
+
+
+Bucket 653
+
+
+Bucket 654
+
+
+Bucket 655
+
+
+Bucket 656
+
+
+Bucket 657
+
+
+Bucket 658
+
+
+Bucket 659
+
+
+Bucket 660
+
+
+Bucket 661
+
+
+Bucket 662
+
+
+Bucket 663
+
+
+Bucket 664
+
+
+Bucket 665
+
+
+Bucket 666
+
+
+Bucket 667
+
+
+Bucket 668
+
+
+Bucket 669
+
+
+Bucket 670
+
+
+Bucket 671
+
+
+Bucket 672
+
+
+Bucket 673
+
+
+Bucket 674
+
+
+Bucket 675
+
+
+Bucket 676
+
+
+Bucket 677
+
+
+Bucket 678
+
+
+Bucket 679
+
+
+Bucket 680
+
+
+Bucket 681
+
+
+Bucket 682
+
+
+Bucket 683
+
+
+Bucket 684
+
+
+Bucket 685
+
+
+Bucket 686
+
+
+Bucket 687
+
+
+Bucket 688
+
+
+Bucket 689
+
+
+Bucket 690
+
+
+Bucket 691
+
+
+Bucket 692
+
+
+Bucket 693
+
+
+Bucket 694
+
+
+Bucket 695
+
+
+Bucket 696
+
+
+Bucket 697
+
+
+Bucket 698
+
+
+Bucket 699
+
+
+Bucket 700
+
+
+Bucket 701
+
+
+Bucket 702
+
+
+Bucket 703
+
+
+Bucket 704
+
+
+Bucket 705
+
+
+Bucket 706
+
+
+Bucket 707
+
+
+Bucket 708
+
+
+Bucket 709
+
+
+Bucket 710
+
+
+Bucket 711
+
+
+Bucket 712
+
+
+Bucket 713
+
+
+Bucket 714
+
+
+Bucket 715
+
+
+Bucket 716
+
+
+Bucket 717
+
+
+Bucket 718
+
+
+Bucket 719
+
+
+Bucket 720
+
+
+Bucket 721
+
+
+Bucket 722
+
+
+Bucket 723
+
+
+Bucket 724
+
+
+Bucket 725
+
+
+Bucket 726
+
+
+Bucket 727
+
+
+Bucket 728
+
+
+Bucket 729
+
+
+Bucket 730
+
+
+Bucket 731
+
+
+Bucket 732
+
+
+Bucket 733
+
+
+Bucket 734
+
+
+Bucket 735
+
+
+Bucket 736
+
+
+Bucket 737
+
+
+Bucket 738
+
+
+Bucket 739
+
+
+Bucket 740
+
+
+Bucket 741
+
+
+Bucket 742
+
+
+Bucket 743
+
+
+Bucket 744
+
+
+Bucket 745
+
+
+Bucket 746
+
+
+Bucket 747
+
+
+Bucket 748
+
+
+Bucket 749
+
+
+Bucket 750
+
+
+Bucket 751
+
+
+Bucket 752
+
+
+Bucket 753
+
+
+Bucket 754
+
+
+Bucket 755
+
+
+Bucket 756
+
+
+Bucket 757
+
+
+Bucket 758
+
+
+Bucket 759
+
+
+Bucket 760
+
+
+Bucket 761
+
+
+Bucket 762
+
+
+Bucket 763
+
+
+Bucket 764
+
+
+Bucket 765
+
+
+Bucket 766
+
+
+Bucket 767
+
+
+Bucket 768
+
+
+Bucket 769
+
+
+Bucket 770
+
+
+Bucket 771
+
+
+Bucket 772
+
+
+Bucket 773
+
+
+Bucket 774
+
+
+Bucket 775
+
+
+Bucket 776
+
+
+Bucket 777
+
+
+Bucket 778
+
+
+Bucket 779
+
+
+Bucket 780
+
+
+Bucket 781
+
+
+Bucket 782
+
+
+Bucket 783
+
+
+Bucket 784
+
+
+Bucket 785
+
+
+Bucket 786
+
+
+Bucket 787
+
+
+Bucket 788
+
+
+Bucket 789
+
+
+Bucket 790
+
+
+Bucket 791
+
+
+Bucket 792
+
+
+Bucket 793
+
+
+Bucket 794
+
+
+Bucket 795
+
+
+Bucket 796
+
+
+Bucket 797
+
+
+Bucket 798
+
+
+Bucket 799
+
+
+Bucket 800
+
+
+Bucket 801
+
+
+Bucket 802
+
+
+Bucket 803
+
+
+Bucket 804
+
+
+Bucket 805
+
+
+Bucket 806
+
+
+Bucket 807
+
+
+Bucket 808
+
+
+Bucket 809
+
+
+Bucket 810
+
+
+Bucket 811
+
+
+Bucket 812
+
+
+Bucket 813
+
+
+Bucket 814
+
+
+Bucket 815
+
+
+Bucket 816
+
+
+Bucket 817
+
+
+Bucket 818
+
+
+Bucket 819
+
+
+Bucket 820
+
+
+Bucket 821
+
+
+Bucket 822
+
+
+Bucket 823
+
+
+Bucket 824
+
+
+Bucket 825
+
+
+Bucket 826
+
+
+Bucket 827
+
+
+Bucket 828
+
+
+Bucket 829
+
+
+Bucket 830
+
+
+Bucket 831
+
+
+Bucket 832
+
+
+Bucket 833
+
+
+Bucket 834
+
+
+Bucket 835
+
+
+Bucket 836
+
+
+Bucket 837
+
+
+Bucket 838
+
+
+Bucket 839
+
+
+Bucket 840
+
+
+Bucket 841
+
+
+Bucket 842
+
+
+Bucket 843
+
+
+Bucket 844
+
+
+Bucket 845
+
+
+Bucket 846
+
+
+Bucket 847
+
+
+Bucket 848
+
+
+Bucket 849
+
+
+Bucket 850
+
+
+Bucket 851
+
+
+Bucket 852
+
+
+Bucket 853
+
+
+Bucket 854
+
+
+Bucket 855
+
+
+Bucket 856
+
+
+Bucket 857
+
+
+Bucket 858
+
+
+Bucket 859
+
+
+Bucket 860
+
+
+Bucket 861
+
+
+Bucket 862
+
+
+Bucket 863
+
+
+Bucket 864
+
+
+Bucket 865
+
+
+Bucket 866
+
+
+Bucket 867
+
+
+Bucket 868
+
+
+Bucket 869
+
+
+Bucket 870
+
+
+Bucket 871
+
+
+Bucket 872
+
+
+Bucket 873
+
+
+Bucket 874
+
+
+Bucket 875
+
+
+Bucket 876
+
+
+Bucket 877
+
+
+Bucket 878
+
+
+Bucket 879
+
+
+Bucket 880
+
+
+Bucket 881
+
+
+Bucket 882
+
+
+Bucket 883
+
+
+Bucket 884
+
+
+Bucket 885
+
+
+Bucket 886
+
+
+Bucket 887
+
+
+Bucket 888
+
+
+Bucket 889
+
+
+Bucket 890
+
+
+Bucket 891
+
+
+Bucket 892
+
+
+Bucket 893
+
+
+Bucket 894
+
+
+Bucket 895
+
+
+Bucket 896
+
+
+Bucket 897
+
+
+Bucket 898
+
+
+Bucket 899
+
+
+Bucket 900
+
+
+Bucket 901
+
+
+Bucket 902
+
+
+Bucket 903
+
+
+Bucket 904
+
+
+Bucket 905
+
+
+Bucket 906
+
+
+Bucket 907
+
+
+Bucket 908
+
+
+Bucket 909
+
+
+Bucket 910
+
+
+Bucket 911
+
+
+Bucket 912
+
+
+Bucket 913
+
+
+Bucket 914
+
+
+Bucket 915
+
+
+Bucket 916
+
+
+Bucket 917
+
+
+Bucket 918
+
+
+Bucket 919
+
+
+Bucket 920
+
+
+Bucket 921
+
+
+Bucket 922
+
+
+Bucket 923
+
+
+Bucket 924
+
+
+Bucket 925
+
+
+Bucket 926
+
+
+Bucket 927
+
+
+Bucket 928
+
+
+Bucket 929
+
+
+Bucket 930
+
+
+Bucket 931
+
+
+Bucket 932
+
+
+Bucket 933
+
+
+Bucket 934
+
+
+Bucket 935
+
+
+Bucket 936
+
+
+Bucket 937
+
+
+Bucket 938
+
+
+Bucket 939
+
+
+Bucket 940
+
+
+Bucket 941
+
+
+Bucket 942
+
+
+Bucket 943
+
+
+Bucket 944
+
+
+Bucket 945
+
+
+Bucket 946
+
+
+Bucket 947
+
+
+Bucket 948
+
+
+Bucket 949
+
+
+Bucket 950
+
+
+Bucket 951
+
+
+Bucket 952
+
+
+Bucket 953
+
+
+Bucket 954
+
+
+Bucket 955
+
+
+Bucket 956
+
+
+Bucket 957
+
+
+Bucket 958
+
+
+Bucket 959
+
+
+Bucket 960
+
+
+Bucket 961
+
+
+Bucket 962
+
+
+Bucket 963
+
+
+Bucket 964
+
+
+Bucket 965
+
+
+Bucket 966
+
+
+Bucket 967
+
+
+Bucket 968
+
+
+Bucket 969
+
+
+Bucket 970
+
+
+Bucket 971
+
+
+Bucket 972
+
+
+Bucket 973
+
+
+Bucket 974
+
+
+Bucket 975
+
+
+Bucket 976
+
+
+Bucket 977
+
+
+Bucket 978
+
+
+Bucket 979
+
+
+Bucket 980
+
+
+Bucket 981
+
+
+Bucket 982
+
+
+Bucket 983
+
+
+Bucket 984
+
+
+Bucket 985
+
+
+Bucket 986
+
+
+Bucket 987
+
+
+Bucket 988
+
+
+Bucket 989
+
+
+Bucket 990
+
+
+Bucket 991
+
+
+Bucket 992
+
+
+Bucket 993
+
+
+Bucket 994
+
+
+Bucket 995
+
+
+Bucket 996
+
+
+Bucket 997
+
+
+Bucket 998
+
+
+Bucket 999
+
+
+===STATISTICHE SULL'ORGANIZZAZIONE DEL DIZIONARIO===
+
+Bucket 0: 0 elementi
+Bucket 1: 0 elementi
+Bucket 2: 0 elementi
+Bucket 3: 0 elementi
+Bucket 4: 0 elementi
+Bucket 5: 0 elementi
+Bucket 6: 0 elementi
+Bucket 7: 0 elementi
+Bucket 8: 0 elementi
+Bucket 9: 0 elementi
+Bucket 10: 0 elementi
+Bucket 11: 0 elementi
+Bucket 12: 0 elementi
+Bucket 13: 0 elementi
+Bucket 14: 0 elementi
+Bucket 15: 0 elementi
+Bucket 16: 0 elementi
+Bucket 17: 0 elementi
+Bucket 18: 0 elementi
+Bucket 19: 0 elementi
+Bucket 20: 0 elementi
+Bucket 21: 0 elementi
+Bucket 22: 0 elementi
+Bucket 23: 0 elementi
+Bucket 24: 0 elementi
+Bucket 25: 0 elementi
+Bucket 26: 0 elementi
+Bucket 27: 0 elementi
+Bucket 28: 0 elementi
+Bucket 29: 0 elementi
+Bucket 30: 0 elementi
+Bucket 31: 0 elementi
+Bucket 32: 0 elementi
+Bucket 33: 0 elementi
+Bucket 34: 0 elementi
+Bucket 35: 0 elementi
+Bucket 36: 0 elementi
+Bucket 37: 0 elementi
+Bucket 38: 0 elementi
+Bucket 39: 0 elementi
+Bucket 40: 0 elementi
+Bucket 41: 0 elementi
+Bucket 42: 0 elementi
+Bucket 43: 0 elementi
+Bucket 44: 0 elementi
+Bucket 45: 0 elementi
+Bucket 46: 0 elementi
+Bucket 47: 0 elementi
+Bucket 48: 0 elementi
+Bucket 49: 0 elementi
+Bucket 50: 0 elementi
+Bucket 51: 0 elementi
+Bucket 52: 0 elementi
+Bucket 53: 0 elementi
+Bucket 54: 0 elementi
+Bucket 55: 0 elementi
+Bucket 56: 0 elementi
+Bucket 57: 0 elementi
+Bucket 58: 0 elementi
+Bucket 59: 0 elementi
+Bucket 60: 0 elementi
+Bucket 61: 0 elementi
+Bucket 62: 0 elementi
+Bucket 63: 0 elementi
+Bucket 64: 0 elementi
+Bucket 65: 0 elementi
+Bucket 66: 0 elementi
+Bucket 67: 0 elementi
+Bucket 68: 0 elementi
+Bucket 69: 0 elementi
+Bucket 70: 0 elementi
+Bucket 71: 0 elementi
+Bucket 72: 0 elementi
+Bucket 73: 0 elementi
+Bucket 74: 0 elementi
+Bucket 75: 0 elementi
+Bucket 76: 0 elementi
+Bucket 77: 0 elementi
+Bucket 78: 0 elementi
+Bucket 79: 0 elementi
+Bucket 80: 0 elementi
+Bucket 81: 0 elementi
+Bucket 82: 0 elementi
+Bucket 83: 0 elementi
+Bucket 84: 0 elementi
+Bucket 85: 0 elementi
+Bucket 86: 0 elementi
+Bucket 87: 0 elementi
+Bucket 88: 0 elementi
+Bucket 89: 0 elementi
+Bucket 90: 0 elementi
+Bucket 91: 0 elementi
+Bucket 92: 0 elementi
+Bucket 93: 0 elementi
+Bucket 94: 0 elementi
+Bucket 95: 0 elementi
+Bucket 96: 0 elementi
+Bucket 97: 12 elementi
+Bucket 98: 0 elementi
+Bucket 99: 0 elementi
+Bucket 100: 0 elementi
+Bucket 101: 0 elementi
+Bucket 102: 0 elementi
+Bucket 103: 0 elementi
+Bucket 104: 0 elementi
+Bucket 105: 0 elementi
+Bucket 106: 0 elementi
+Bucket 107: 0 elementi
+Bucket 108: 0 elementi
+Bucket 109: 0 elementi
+Bucket 110: 0 elementi
+Bucket 111: 0 elementi
+Bucket 112: 0 elementi
+Bucket 113: 0 elementi
+Bucket 114: 0 elementi
+Bucket 115: 0 elementi
+Bucket 116: 0 elementi
+Bucket 117: 0 elementi
+Bucket 118: 0 elementi
+Bucket 119: 0 elementi
+Bucket 120: 0 elementi
+Bucket 121: 0 elementi
+Bucket 122: 0 elementi
+Bucket 123: 0 elementi
+Bucket 124: 0 elementi
+Bucket 125: 0 elementi
+Bucket 126: 0 elementi
+Bucket 127: 0 elementi
+Bucket 128: 0 elementi
+Bucket 129: 0 elementi
+Bucket 130: 0 elementi
+Bucket 131: 0 elementi
+Bucket 132: 0 elementi
+Bucket 133: 0 elementi
+Bucket 134: 0 elementi
+Bucket 135: 0 elementi
+Bucket 136: 0 elementi
+Bucket 137: 0 elementi
+Bucket 138: 0 elementi
+Bucket 139: 0 elementi
+Bucket 140: 0 elementi
+Bucket 141: 0 elementi
+Bucket 142: 0 elementi
+Bucket 143: 0 elementi
+Bucket 144: 0 elementi
+Bucket 145: 0 elementi
+Bucket 146: 0 elementi
+Bucket 147: 0 elementi
+Bucket 148: 0 elementi
+Bucket 149: 0 elementi
+Bucket 150: 0 elementi
+Bucket 151: 0 elementi
+Bucket 152: 0 elementi
+Bucket 153: 0 elementi
+Bucket 154: 0 elementi
+Bucket 155: 0 elementi
+Bucket 156: 0 elementi
+Bucket 157: 0 elementi
+Bucket 158: 0 elementi
+Bucket 159: 0 elementi
+Bucket 160: 0 elementi
+Bucket 161: 0 elementi
+Bucket 162: 0 elementi
+Bucket 163: 0 elementi
+Bucket 164: 0 elementi
+Bucket 165: 0 elementi
+Bucket 166: 0 elementi
+Bucket 167: 0 elementi
+Bucket 168: 0 elementi
+Bucket 169: 0 elementi
+Bucket 170: 0 elementi
+Bucket 171: 0 elementi
+Bucket 172: 0 elementi
+Bucket 173: 0 elementi
+Bucket 174: 0 elementi
+Bucket 175: 0 elementi
+Bucket 176: 0 elementi
+Bucket 177: 0 elementi
+Bucket 178: 0 elementi
+Bucket 179: 0 elementi
+Bucket 180: 0 elementi
+Bucket 181: 0 elementi
+Bucket 182: 0 elementi
+Bucket 183: 0 elementi
+Bucket 184: 0 elementi
+Bucket 185: 0 elementi
+Bucket 186: 0 elementi
+Bucket 187: 0 elementi
+Bucket 188: 0 elementi
+Bucket 189: 0 elementi
+Bucket 190: 0 elementi
+Bucket 191: 0 elementi
+Bucket 192: 0 elementi
+Bucket 193: 0 elementi
+Bucket 194: 0 elementi
+Bucket 195: 0 elementi
+Bucket 196: 0 elementi
+Bucket 197: 0 elementi
+Bucket 198: 0 elementi
+Bucket 199: 0 elementi
+Bucket 200: 0 elementi
+Bucket 201: 0 elementi
+Bucket 202: 0 elementi
+Bucket 203: 0 elementi
+Bucket 204: 0 elementi
+Bucket 205: 0 elementi
+Bucket 206: 0 elementi
+Bucket 207: 0 elementi
+Bucket 208: 0 elementi
+Bucket 209: 0 elementi
+Bucket 210: 0 elementi
+Bucket 211: 0 elementi
+Bucket 212: 0 elementi
+Bucket 213: 0 elementi
+Bucket 214: 0 elementi
+Bucket 215: 0 elementi
+Bucket 216: 0 elementi
+Bucket 217: 0 elementi
+Bucket 218: 0 elementi
+Bucket 219: 0 elementi
+Bucket 220: 0 elementi
+Bucket 221: 0 elementi
+Bucket 222: 0 elementi
+Bucket 223: 0 elementi
+Bucket 224: 0 elementi
+Bucket 225: 0 elementi
+Bucket 226: 0 elementi
+Bucket 227: 0 elementi
+Bucket 228: 0 elementi
+Bucket 229: 0 elementi
+Bucket 230: 0 elementi
+Bucket 231: 0 elementi
+Bucket 232: 0 elementi
+Bucket 233: 0 elementi
+Bucket 234: 0 elementi
+Bucket 235: 0 elementi
+Bucket 236: 0 elementi
+Bucket 237: 0 elementi
+Bucket 238: 0 elementi
+Bucket 239: 0 elementi
+Bucket 240: 0 elementi
+Bucket 241: 0 elementi
+Bucket 242: 0 elementi
+Bucket 243: 0 elementi
+Bucket 244: 0 elementi
+Bucket 245: 0 elementi
+Bucket 246: 0 elementi
+Bucket 247: 0 elementi
+Bucket 248: 0 elementi
+Bucket 249: 0 elementi
+Bucket 250: 0 elementi
+Bucket 251: 0 elementi
+Bucket 252: 0 elementi
+Bucket 253: 0 elementi
+Bucket 254: 0 elementi
+Bucket 255: 0 elementi
+Bucket 256: 0 elementi
+Bucket 257: 0 elementi
+Bucket 258: 0 elementi
+Bucket 259: 0 elementi
+Bucket 260: 0 elementi
+Bucket 261: 0 elementi
+Bucket 262: 0 elementi
+Bucket 263: 0 elementi
+Bucket 264: 0 elementi
+Bucket 265: 0 elementi
+Bucket 266: 0 elementi
+Bucket 267: 0 elementi
+Bucket 268: 0 elementi
+Bucket 269: 0 elementi
+Bucket 270: 0 elementi
+Bucket 271: 0 elementi
+Bucket 272: 0 elementi
+Bucket 273: 0 elementi
+Bucket 274: 0 elementi
+Bucket 275: 0 elementi
+Bucket 276: 0 elementi
+Bucket 277: 0 elementi
+Bucket 278: 0 elementi
+Bucket 279: 0 elementi
+Bucket 280: 0 elementi
+Bucket 281: 0 elementi
+Bucket 282: 0 elementi
+Bucket 2
