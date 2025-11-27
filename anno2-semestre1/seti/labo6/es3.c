@@ -9,7 +9,7 @@ void sieve(int read_fd) {
     close(read_fd);
     exit(0);
   }
-  printf("%d\n", p);
+  printf("%d\n", p); 
   fflush(stdout);
 
   int nextPipe[2];

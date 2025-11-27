@@ -25,12 +25,13 @@ int main(){
         return EXIT_FAILURE;
     }
     char buff[100];
-    for (int i = 0; i < 10; i++) {
-        char *mess = "ciao\n";
+    for (unsigned int i = 0; i < 20; i++) {
+        char mess[100];
+        sprintf(mess, "Hello%d\n", i);
         write(s, mess, strlen(mess));
-        int size = read(s, buff, 99*sizeof(char));
+        int size = read(s, buff, 99 * sizeof(char));
         buff[size] = '\0';
-        printf("%s\n", buff);
+        printf("%s", buff);
     }
     close(s);
 }
