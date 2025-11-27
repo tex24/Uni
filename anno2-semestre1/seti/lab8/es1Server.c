@@ -10,11 +10,10 @@
 
 int main()
 {
-    srand(time(NULL));
     int sock = socket(PF_INET, SOCK_STREAM, 0);
     struct sockaddr_in address_sock;
     address_sock.sin_family = AF_INET;
-    address_sock.sin_port = htons(5002);
+    address_sock.sin_port = htons(5000);
     address_sock.sin_addr.s_addr = htonl(INADDR_ANY);
     int r = bind(sock, (struct sockaddr *)&address_sock, sizeof(struct sockaddr_in));
     if (r == 0)
@@ -30,8 +29,9 @@ int main()
                 int idfork = fork();
                 if (idfork == 0)
                 {
+                    srand(time(NULL) ^ getpid());
                     close(sock);
-                    char mess[25] = "Ciao ti sei collegato!\n";
+                    char mess[100] = "Ciao ti sei collegato!\nIndovina il numero che sto pensando fra 0 e 65535\n";
                     write(sock2, mess, strlen(mess) * sizeof(char));
                     int n = rand() % 65535;
                     printf("%d\n", n);
@@ -41,12 +41,12 @@ int main()
                         int received = read(sock2, buff, 99 * sizeof(char));
                         buff[received] = '\0';
                         printf("Messagio ricevuto : %d\n", atoi(buff));
-                        if (atoi(buff) < n)
+                        if (atoi(buff) > n)
                         {
                             sprintf(mess, "MENO %d\n", 20-i);
                             write(sock2, mess, strlen(mess) * sizeof(char));
                         }
-                        else if (atoi(buff) > n)
+                        else if (atoi(buff) < n)
                         {
                             sprintf(mess, "PIU %d\n", 20-i);
                             write(sock2, mess, strlen(mess) * sizeof(char));
